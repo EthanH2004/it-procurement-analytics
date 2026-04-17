@@ -144,7 +144,7 @@ plus charts.
 | --- | --- |
 | **Plain Python string templating** | No Jinja, no React — one file, zero build step. A reviewer can read the template and the logic side-by-side. |
 | **Inline CSS in the `<style>` block** | The output is a single, portable HTML file with three PNG siblings. Can be emailed, zipped, or dropped on any static host. |
-| **Visa brand palette** (navy #1a1f71, gold #f7b600) | Signals intent — this is tailored to the role, not a generic template. |
+| **Navy + gold palette** (#1a1f71, #f7b600) | Professional financial-services color scheme; avoids the generic grey/blue of most BI templates. |
 | **Serif body + sans-serif UI** | Mirrors an academic-report feel for the narrative while keeping tables and KPI cards crisp. |
 | **"Why this question?" callouts** | Every section justifies itself before showing the result. This is the pedagogical move that separates a findings doc from a dashboard. |
 
@@ -178,7 +178,7 @@ Ninety days is the standard BA checkpoint:
 - **Later** (30 days) and Procurement has already started the renewal
   paperwork; negotiation leverage is gone.
 - Ninety days aligns with most enterprise MSA cancellation-notice
-  windows and is the window referenced in the Visa BA JD itself.
+  windows and is the standard checkpoint cited in Gartner's IT procurement literature.
 
 ### Consolidation threshold (3+ vendors)
 

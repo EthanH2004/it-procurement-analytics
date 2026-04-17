@@ -5,5 +5,9 @@ __pycache__/
 .env
 .env.local
 
-# Private interview prep — NEVER push this to the public repo
+# Private reference files — not part of the public project
 INTERVIEW_PREP.md
+BA-job-ad.txt
+HANDOFF.md
+
+.vercel

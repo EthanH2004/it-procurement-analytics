@@ -1,38 +1,24 @@
-# IT Procurement Demand Management — Portfolio Analysis
+# IT Procurement Analytics — Enterprise Spend Analysis
 
-> A self-contained data project built for the **Visa Associate Business
-> Analyst (New Grad 2026)** role. It simulates the day-to-day work of
-> an IT Demand Management BA: extract procurement data, normalize it
-> with SQL, and surface cost-optimization opportunities for product
-> owners.
+> A data analytics project simulating enterprise IT procurement
+> management: extract purchase-order data, normalize it with SQL,
+> and surface cost-optimization opportunities for stakeholders.
 
-**Live report:** [visa-ba-portfolio.vercel.app](https://visa-ba-portfolio.vercel.app)
-**GitHub:** [github.com/EthanH2004/visa-ba-portfolio](https://github.com/EthanH2004/visa-ba-portfolio)
+**Live report:** [it-procurement-analytics.vercel.app](https://it-procurement-analytics.vercel.app)
+**GitHub:** [github.com/EthanH2004/it-procurement-analytics](https://github.com/EthanH2004/it-procurement-analytics)
 **Narrative findings:** [`FINDINGS.md`](FINDINGS.md)
 **Technical design:** [`DESIGN.md`](DESIGN.md)
 
 ---
 
-## Why This Project
+## Project Overview
 
-The Visa Associate BA job description asks for someone who can:
+This project analyzes a synthetic 1,000-row IT procurement portfolio
+($4.92B spend, 25 vendors, 6 business units) end-to-end in SQL, with
+findings rendered as a polished static report.
 
-> *"Run SQL scripts to extract data from multiple data sources and
-> normalize data based on product owner feedback."*
->
-> *"Identify expense reduction opportunities with product owners and
-> create plans and tracking to ensure execution."*
->
-> *"Draw actionable insights from raw data using strong quantitative
-> skills and be able to influence stakeholder leadership."*
-
-Rather than tell an interviewer I can do this, I built the thing. This
-project is a 1,000-row synthetic IT procurement portfolio
-($4.92B spend, 25 vendors, 6 business units) analyzed end-to-end in SQL,
-with the findings rendered as a polished static report.
-
-**The four questions this report answers** are the exact questions a
-Demand Management BA answers every week:
+**The four questions this analysis answers** are the core questions
+any IT spend analyst answers on a regular basis:
 
 1. **What do we own and what does it cost?** (portfolio baseline)
 2. **What's renewing soon?** (the 90-day window — where auto-renewal
@@ -69,7 +55,7 @@ generate_data.py  →  data/procurement.csv  (1,000 rows, seeded)
 ```
 
 Three scripts, ~300 lines total. Every number on the final page
-traces back to a specific SQL query an interviewer can re-run.
+traces back to a specific SQL query that can be re-run.
 
 ---
 
@@ -91,27 +77,25 @@ no cloud account, no BI tool.
 
 ---
 
-## What Skills This Demonstrates (Mapped to the JD)
+## Skills Demonstrated
 
-| Visa JD Requirement | Where It Shows Up |
-| ------------------- | ----------------- |
-| SQL querying, normalization across sources | `scripts/analyze.py` — 7 SQL queries against SQLite |
-| Identifying expense-reduction opportunities | FINDINGS §5–§7 (renewals, reclaim, consolidation) |
-| Demand validation against strategy | 90-day renewal pipeline + utilization reclaim |
-| Infrastructure asset baseline | Portfolio KPIs + category rollup |
-| Cost clarity programs for leadership | BU showback section |
-| Actionable insights from raw data | Each finding paired with a recommendation |
-| Running IT like a business | Per-BU spend, per-category unit economics |
-| Analytical tools (Excel / Tableau / Power BI-class) | Matplotlib charts; CSV drops into Excel / Power BI 1:1 |
+| Area | Implementation |
+| ---- | -------------- |
+| SQL querying & normalization | `scripts/analyze.py` — 7 SQL queries against SQLite |
+| Expense-reduction analysis | FINDINGS §5–§7 — renewals, reclaim, consolidation |
+| Data pipeline design | CSV → SQLite → JSON → static HTML |
+| Visualization | Matplotlib charts; CSV drops into Excel / Power BI 1:1 |
+| Reproducibility | Fixed random seed — byte-identical outputs every run |
+| Technical communication | Each finding paired with a plain-English recommendation |
 
 ---
 
 ## What's in This Repo
 
 ```
-README.md           ← you are here — the pitch
+README.md           ← you are here
 FINDINGS.md         ← narrative findings + recommendations
-DESIGN.md           ← architecture, data-science design choices, trade-offs
+DESIGN.md           ← architecture and design decisions
 data/
   procurement.csv   ← the 1,000-row dataset (seeded, reproducible)
 scripts/
@@ -126,65 +110,21 @@ out/
 
 ---
 
-## Interview Q&A — Backup Answers
+## About the Data
 
-The three questions a hiring manager is most likely to ask about
-this project:
-
-### "Is the data real?"
-
-No — it's a 1,000-row synthetic dataset generated with a fixed random
+The dataset is a 1,000-row synthetic CSV generated with a fixed random
 seed, documented in [`DESIGN.md §3.1`](DESIGN.md). Real enterprise
-procurement data is confidential, so I modeled the schema on what's
-commonly present in ServiceNow ITAM, SAP Ariba, and the public Kaggle
-*Procurement KPI* dataset. Category-specific price and quantity ranges
-were enforced so the aggregates are plausible. Absolute dollars aren't
-a benchmark; the value is in the method.
-
-### "Why SQLite and not just pandas?"
-
-Two reasons.
-
-1. **The queries are portable.** Every SQL statement in `analyze.py`
-   will run unchanged against SQL Server, BigQuery, or Snowflake —
-   which is what I'd use at Visa. Pandas code wouldn't transfer.
-2. **It's auditable.** A reviewer can read the seven queries and
-   reason about them directly. Chained pandas `groupby` calls are
-   harder to review, harder to explain, and mix business logic with
-   syntax.
-
-Full rationale in [`DESIGN.md §3.2`](DESIGN.md).
-
-### "What would you change if this were a real Visa project?"
-
-Four things — covered in [`DESIGN.md §6`](DESIGN.md):
-
-1. **Replace modeled utilization with real telemetry.** Pull from
-   FlexNet / Sassafras for on-prem licenses, or Apptio / Flexera for
-   cloud. That changes the reclaim list from "plausible" to
-   "defensible in a product-owner meeting."
-2. **Add vendor-name normalization.** "Microsoft", "MSFT Corp.",
-   "Microsoft Corporation" all show up in real procurement exports.
-   A fuzzy match + canonical dictionary is the first real task.
-3. **Push queries to the warehouse.** At scale you don't pull raw
-   rows client-side — you run the SQL where the data lives and pull
-   aggregates.
-4. **Institutionalize the report.** This is a one-shot today; in
-   production it becomes a monthly scheduled refresh feeding a
-   Power BI dashboard the Demand Management team owns.
+procurement data is confidential, so the schema was modeled on what's
+commonly present in ServiceNow ITAM and SAP Ariba exports.
+Category-specific price and quantity ranges were enforced so the
+aggregates are realistic. Absolute dollars aren't a benchmark;
+the value is in the method.
 
 ---
 
 ## About
 
-**Ethan Hennenhoefer** · Austin, TX · [Ethan@Hennenhoefer.org](mailto:Ethan@Hennenhoefer.org)
-B.S. Information Technology, Texas Tech University (May 2026)
-
-Prior IT experience: Software Engineering Intern (AI/ML) at SHI
-International — built Azure Functions + ServiceNow integrations for an
-enterprise service-desk AI assistant. AI Solutions Intern — built
-AI-driven proposal automation (2-week → 2-day cycle-time reduction).
-
-This project was built as preparation for the Visa Associate BA
-interview and is the artifact I'd want to screen-share in the first
-five minutes.
+**Ethan Hennenhoefer** · Austin, TX · [Ethan@Hennenhoefer.org](mailto:Ethan@Hennenhoefer.org)  
+B.S. Information Technology, Texas Tech University (May 2026)  
+Rawls College of Business — coursework spans database systems,
+data analytics, and the business core (accounting, finance, management).
