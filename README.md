@@ -6,7 +6,8 @@
 > with SQL, and surface cost-optimization opportunities for product
 > owners.
 
-**Live report:** [`out/index.html`](out/index.html) (open in any browser)
+**Live report:** [visa-ba-portfolio.vercel.app](https://visa-ba-portfolio.vercel.app)
+**GitHub:** [github.com/EthanH2004/visa-ba-portfolio](https://github.com/EthanH2004/visa-ba-portfolio)
 **Narrative findings:** [`FINDINGS.md`](FINDINGS.md)
 **Technical design:** [`DESIGN.md`](DESIGN.md)
 
