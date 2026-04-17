@@ -1,0 +1,1001 @@
+po_id,purchase_date,vendor,category,business_unit,item_description,quantity,unit_price_usd,total_spend_usd,contract_term_months,renewal_date,utilization_pct,status
+PO-00001,2023-10-13,AWS,Cloud Services,Core Payments,AWS Cloud Services,1,203464.56,203464.56,36,2026-09-27,96,Pending Renewal
+PO-00002,2024-04-21,Supermicro,Server Hardware,Core Payments,Supermicro Server Hardware,1,11466.72,11466.72,60,2029-03-26,89,Pending Renewal
+PO-00003,2025-05-09,HPE,Server Hardware,Consumer Products,HPE Server Hardware,21,33949.02,712929.42,12,2026-05-04,51,In Procurement
+PO-00004,2023-11-15,HPE,Server Hardware,Consumer Products,HPE Server Hardware,14,20589.27,288249.78,12,2024-11-09,73,In Procurement
+PO-00005,2024-12-05,NetApp,Storage,Core Payments,NetApp Storage,4,37728.35,150913.40,60,2029-11-09,67,Active
+PO-00006,2025-01-10,Microsoft,Software License,Data Platform,Microsoft Software License,41,138234.14,5667599.74,36,2027-12-26,74,Active
+PO-00007,2023-06-13,AWS,Cloud Services,Core Payments,AWS Cloud Services,1,620723.99,620723.99,12,2024-06-07,82,Active
+PO-00008,2024-06-30,Azure,Cloud Services,Fraud & Risk,Azure Cloud Services,1,290663.85,290663.85,36,2027-06-15,51,Retired
+PO-00009,2024-05-16,AWS,Cloud Services,Corporate IT,AWS Cloud Services,1,431970.50,431970.50,12,2025-05-11,51,Retired
+PO-00010,2023-04-25,GCP,Cloud Services,Fraud & Risk,GCP Cloud Services,1,675853.02,675853.02,12,2024-04-19,72,In Procurement
+PO-00011,2026-03-07,Lenovo,Server Hardware,Data Platform,Lenovo Server Hardware,9,10448.98,94040.82,60,2031-02-09,55,Active
+PO-00012,2026-02-23,Azure,Cloud Services,Fraud & Risk,Azure Cloud Services,1,120307.95,120307.95,36,2029-02-07,97,Active
+PO-00013,2023-10-11,GCP,Cloud Services,Data Platform,GCP Cloud Services,1,295977.19,295977.19,36,2026-09-25,31,In Procurement
+PO-00014,2025-05-14,HPE,Server Hardware,Consumer Products,HPE Server Hardware,6,37306.94,223841.64,60,2030-04-18,69,Active
+PO-00015,2026-02-07,HP,Laptops,Corporate IT,HP Laptops,249,2575.70,641349.30,12,2027-02-02,63,Pending Renewal
+PO-00016,2025-06-09,Okta,Security,Consumer Products,Okta Security,22,24521.63,539475.86,12,2026-06-04,58,Pending Renewal
+PO-00017,2023-08-06,GCP,Cloud Services,Merchant Services,GCP Cloud Services,1,411068.52,411068.52,36,2026-07-21,58,Pending Renewal
+PO-00018,2025-12-22,Arista,Network Hardware,Merchant Services,Arista Network Hardware,3,67028.59,201085.77,12,2026-12-17,97,Pending Renewal
+PO-00019,2024-09-21,Pure Storage,Storage,Core Payments,Pure Storage Storage,1,233338.17,233338.17,12,2025-09-16,100,Active
+PO-00020,2023-09-15,Supermicro,Server Hardware,Core Payments,Supermicro Server Hardware,25,27710.13,692753.25,12,2024-09-09,84,Retired
+PO-00021,2025-05-16,Lenovo,Laptops,Merchant Services,Lenovo Laptops,280,3468.33,971132.40,12,2026-05-11,100,Retired
+PO-00022,2025-06-16,Juniper,Network Hardware,Data Platform,Juniper Network Hardware,11,79735.98,877095.78,60,2030-05-21,52,Active
+PO-00023,2026-02-08,HPE,Server Hardware,Fraud & Risk,HPE Server Hardware,3,20509.17,61527.51,12,2027-02-03,65,Retired
+PO-00024,2024-11-07,AWS,Cloud Services,Fraud & Risk,AWS Cloud Services,1,725281.81,725281.81,12,2025-11-02,66,Pending Renewal
+PO-00025,2023-09-28,Juniper,Network Hardware,Consumer Products,Juniper Network Hardware,8,29637.23,237097.84,60,2028-09-01,94,Active
+PO-00026,2025-06-01,Palo Alto,Network Hardware,Data Platform,Palo Alto Network Hardware,4,15847.47,63389.88,36,2028-05-16,56,Active
+PO-00027,2023-07-21,HP,Laptops,Consumer Products,HP Laptops,37,2950.75,109177.75,12,2024-07-15,51,In Procurement
+PO-00028,2023-10-15,HPE,Server Hardware,Fraud & Risk,HPE Server Hardware,7,27842.57,194897.99,36,2026-09-29,79,Active
+PO-00029,2026-02-01,Pure Storage,Storage,Fraud & Risk,Pure Storage Storage,1,119135.73,119135.73,12,2027-01-27,100,In Procurement
+PO-00030,2025-09-12,Dell,Server Hardware,Fraud & Risk,Dell Server Hardware,6,23037.32,138223.92,12,2026-09-07,94,In Procurement
+PO-00031,2025-03-10,Dell,Laptops,Fraud & Risk,Dell Laptops,204,1205.60,245942.40,36,2028-02-23,100,Active
+PO-00032,2023-04-30,HP,Laptops,Fraud & Risk,HP Laptops,107,1971.44,210944.08,60,2028-04-03,50,Retired
+PO-00033,2025-09-03,Microsoft,Software License,Consumer Products,Microsoft Software License,161,14762.74,2376801.14,36,2028-08-18,91,Active
+PO-00034,2024-04-26,Microsoft,Software License,Fraud & Risk,Microsoft Software License,36,148961.26,5362605.36,24,2026-04-16,54,Active
+PO-00035,2023-06-17,Oracle,Software License,Corporate IT,Oracle Software License,305,10415.54,3176739.70,24,2025-06-06,52,Active
+PO-00036,2025-03-21,NetApp,Storage,Consumer Products,NetApp Storage,3,71091.20,213273.60,12,2026-03-16,44,Retired
+PO-00037,2023-05-29,Azure,Cloud Services,Data Platform,Azure Cloud Services,1,743924.48,743924.48,12,2024-05-23,5,Active
+PO-00038,2024-12-15,HPE,Server Hardware,Corporate IT,HPE Server Hardware,9,12900.89,116108.01,12,2025-12-10,88,Active
+PO-00039,2024-09-11,Pure Storage,Storage,Fraud & Risk,Pure Storage Storage,4,210930.06,843720.24,60,2029-08-16,100,Pending Renewal
+PO-00040,2023-10-03,Lenovo,Server Hardware,Consumer Products,Lenovo Server Hardware,4,42740.41,170961.64,36,2026-09-17,63,Active
+PO-00041,2024-12-03,HPE,Server Hardware,Merchant Services,HPE Server Hardware,10,30378.70,303787.00,12,2025-11-28,51,Pending Renewal
+PO-00042,2024-07-20,Apple,Laptops,Core Payments,Apple Laptops,57,2849.14,162400.98,12,2025-07-15,28,Active
+PO-00043,2025-06-23,NetApp,Storage,Consumer Products,NetApp Storage,3,52971.76,158915.28,60,2030-05-28,60,Active
+PO-00044,2026-02-05,HPE,Server Hardware,Corporate IT,HPE Server Hardware,2,38880.02,77760.04,12,2027-01-31,40,Active
+PO-00045,2023-03-23,Cisco,Network Hardware,Merchant Services,Cisco Network Hardware,6,108382.87,650297.22,36,2026-03-07,72,Active
+PO-00046,2024-04-29,Dell EMC,Storage,Data Platform,Dell EMC Storage,5,191127.24,955636.20,12,2025-04-24,84,In Procurement
+PO-00047,2024-11-11,Palo Alto,Security,Data Platform,Palo Alto Security,2,36388.12,72776.24,24,2026-11-01,82,In Procurement
+PO-00048,2023-03-21,Juniper,Network Hardware,Fraud & Risk,Juniper Network Hardware,12,17431.00,209172.00,36,2026-03-05,26,Active
+PO-00049,2024-04-11,Palo Alto,Network Hardware,Merchant Services,Palo Alto Network Hardware,5,99361.68,496808.40,12,2025-04-06,82,Active
+PO-00050,2025-03-29,NetApp,Storage,Merchant Services,NetApp Storage,3,165748.21,497244.63,60,2030-03-03,70,In Procurement
+PO-00051,2024-06-18,Splunk,Software License,Core Payments,Splunk Software License,60,219321.08,13159264.80,12,2025-06-13,12,Active
+PO-00052,2025-06-12,Supermicro,Server Hardware,Merchant Services,Supermicro Server Hardware,24,37097.84,890348.16,60,2030-05-17,37,Pending Renewal
+PO-00053,2025-06-12,Supermicro,Server Hardware,Corporate IT,Supermicro Server Hardware,7,17424.73,121973.11,12,2026-06-07,28,Retired
+PO-00054,2023-05-24,GCP,Cloud Services,Consumer Products,GCP Cloud Services,1,297734.96,297734.96,36,2026-05-08,63,Active
+PO-00055,2025-04-16,AWS,Cloud Services,Consumer Products,AWS Cloud Services,1,410626.78,410626.78,24,2027-04-06,52,Active
+PO-00056,2023-12-23,Palo Alto,Network Hardware,Consumer Products,Palo Alto Network Hardware,7,82891.56,580240.92,60,2028-11-26,78,Pending Renewal
+PO-00057,2024-03-06,Pure Storage,Storage,Corporate IT,Pure Storage Storage,1,86410.61,86410.61,36,2027-02-19,74,Active
+PO-00058,2023-12-14,HP,Laptops,Data Platform,HP Laptops,119,2529.05,300956.95,60,2028-11-17,38,Active
+PO-00059,2024-04-26,Dell EMC,Storage,Consumer Products,Dell EMC Storage,5,93769.24,468846.20,60,2029-03-31,53,Active
+PO-00060,2023-05-30,Dell,Server Hardware,Fraud & Risk,Dell Server Hardware,16,30617.14,489874.24,36,2026-05-14,100,Active
+PO-00061,2025-03-29,Oracle,Software License,Consumer Products,Oracle Software License,357,96302.63,34380038.91,12,2026-03-24,88,In Procurement
+PO-00062,2025-11-26,CrowdStrike,Security,Data Platform,CrowdStrike Security,15,35780.17,536702.55,24,2027-11-16,94,Active
+PO-00063,2025-08-09,Oracle,Software License,Core Payments,Oracle Software License,234,33768.11,7901737.74,36,2028-07-24,40,Active
+PO-00064,2025-05-23,Zscaler,Security,Corporate IT,Zscaler Security,47,161103.55,7571866.85,36,2028-05-07,62,Active
+PO-00065,2024-07-21,Palo Alto,Network Hardware,Data Platform,Palo Alto Network Hardware,5,91454.33,457271.65,60,2029-06-25,51,Active
+PO-00066,2026-01-11,Lenovo,Server Hardware,Fraud & Risk,Lenovo Server Hardware,9,20426.36,183837.24,12,2027-01-06,69,Active
+PO-00067,2024-03-14,Arista,Network Hardware,Data Platform,Arista Network Hardware,12,22572.61,270871.32,12,2025-03-09,51,Active
+PO-00068,2023-02-10,Dell,Laptops,Fraud & Risk,Dell Laptops,225,2212.64,497844.00,60,2028-01-15,78,Active
+PO-00069,2025-05-08,Dell,Laptops,Merchant Services,Dell Laptops,162,3159.04,511764.48,60,2030-04-12,67,Pending Renewal
+PO-00070,2023-03-01,Palo Alto,Network Hardware,Fraud & Risk,Palo Alto Network Hardware,5,55121.14,275605.70,36,2026-02-13,40,Active
+PO-00071,2023-09-19,GCP,Cloud Services,Data Platform,GCP Cloud Services,1,673999.47,673999.47,36,2026-09-03,21,Pending Renewal
+PO-00072,2023-10-05,Salesforce,Software License,Core Payments,Salesforce Software License,43,160866.04,6917239.72,24,2025-09-24,57,Active
+PO-00073,2024-10-31,Lenovo,Server Hardware,Data Platform,Lenovo Server Hardware,11,15831.43,174145.73,36,2027-10-16,69,In Procurement
+PO-00074,2026-01-09,Zscaler,Security,Merchant Services,Zscaler Security,6,87303.70,523822.20,12,2027-01-04,46,Active
+PO-00075,2024-05-21,Cisco,Network Hardware,Consumer Products,Cisco Network Hardware,1,91736.82,91736.82,12,2025-05-16,84,Active
+PO-00076,2024-03-22,Palo Alto,Network Hardware,Consumer Products,Palo Alto Network Hardware,2,69856.50,139713.00,36,2027-03-07,42,Retired
+PO-00077,2023-08-23,Pure Storage,Storage,Fraud & Risk,Pure Storage Storage,5,157703.16,788515.80,12,2024-08-17,78,Active
+PO-00078,2024-02-11,Dell EMC,Storage,Consumer Products,Dell EMC Storage,4,108213.79,432855.16,12,2025-02-05,65,Pending Renewal
+PO-00079,2024-09-09,GCP,Cloud Services,Fraud & Risk,GCP Cloud Services,1,560782.47,560782.47,36,2027-08-25,58,Pending Renewal
+PO-00080,2025-01-28,CrowdStrike,Security,Merchant Services,CrowdStrike Security,35,79966.15,2798815.25,12,2026-01-23,61,Pending Renewal
+PO-00081,2023-08-05,Azure,Cloud Services,Core Payments,Azure Cloud Services,1,659641.43,659641.43,24,2025-07-25,98,In Procurement
+PO-00082,2024-07-07,Lenovo,Laptops,Data Platform,Lenovo Laptops,100,3107.87,310787.00,60,2029-06-11,60,In Procurement
+PO-00083,2024-07-03,Datadog,Software License,Data Platform,Datadog Software License,224,206520.78,46260654.72,24,2026-06-23,92,Pending Renewal
+PO-00084,2025-10-09,Lenovo,Laptops,Data Platform,Lenovo Laptops,204,2074.63,423224.52,36,2028-09-23,34,Active
+PO-00085,2024-07-19,Lenovo,Laptops,Merchant Services,Lenovo Laptops,142,2084.88,296052.96,60,2029-06-23,100,Active
+PO-00086,2025-09-02,Palo Alto,Network Hardware,Data Platform,Palo Alto Network Hardware,9,92188.94,829700.46,60,2030-08-07,71,Retired
+PO-00087,2025-04-08,HP,Laptops,Core Payments,HP Laptops,57,1965.01,112005.57,60,2030-03-13,69,Active
+PO-00088,2025-07-18,Apple,Laptops,Data Platform,Apple Laptops,291,2060.06,599477.46,36,2028-07-02,100,Active
+PO-00089,2026-01-02,NetApp,Storage,Core Payments,NetApp Storage,2,89153.77,178307.54,60,2030-12-07,74,Active
+PO-00090,2023-07-25,Dell EMC,Storage,Corporate IT,Dell EMC Storage,5,155245.82,776229.10,12,2024-07-19,82,Active
+PO-00091,2025-12-29,Juniper,Network Hardware,Fraud & Risk,Juniper Network Hardware,5,6627.06,33135.30,12,2026-12-24,58,Pending Renewal
+PO-00092,2023-01-26,Dell EMC,Storage,Fraud & Risk,Dell EMC Storage,4,39108.10,156432.40,60,2027-12-31,100,Active
+PO-00093,2023-04-16,HP,Laptops,Data Platform,HP Laptops,184,1679.35,309000.40,36,2026-03-31,91,In Procurement
+PO-00094,2023-04-20,Supermicro,Server Hardware,Data Platform,Supermicro Server Hardware,3,29349.78,88049.34,12,2024-04-14,58,Active
+PO-00095,2025-05-02,Okta,Security,Core Payments,Okta Security,16,25729.02,411664.32,36,2028-04-16,42,In Procurement
+PO-00096,2025-05-28,Datadog,Software License,Data Platform,Datadog Software License,466,110958.89,51706842.74,24,2027-05-18,50,Pending Renewal
+PO-00097,2024-03-01,Microsoft,Software License,Corporate IT,Microsoft Software License,492,185152.28,91094921.76,36,2027-02-14,75,Active
+PO-00098,2025-04-16,Arista,Network Hardware,Corporate IT,Arista Network Hardware,2,23001.25,46002.50,36,2028-03-31,99,Retired
+PO-00099,2024-08-02,Datadog,Software License,Merchant Services,Datadog Software License,17,58253.32,990306.44,36,2027-07-18,73,Active
+PO-00100,2026-01-20,Dell EMC,Storage,Corporate IT,Dell EMC Storage,2,114907.66,229815.32,12,2027-01-15,61,Retired
+PO-00101,2024-09-21,Juniper,Network Hardware,Fraud & Risk,Juniper Network Hardware,2,11858.37,23716.74,60,2029-08-26,67,Active
+PO-00102,2024-07-11,Dell,Laptops,Data Platform,Dell Laptops,165,3019.31,498186.15,60,2029-06-15,39,Pending Renewal
+PO-00103,2024-10-22,HP,Laptops,Core Payments,HP Laptops,30,3512.50,105375.00,60,2029-09-26,67,Retired
+PO-00104,2023-12-25,CrowdStrike,Security,Consumer Products,CrowdStrike Security,18,105843.22,1905177.96,24,2025-12-14,77,Pending Renewal
+PO-00105,2025-06-11,Azure,Cloud Services,Merchant Services,Azure Cloud Services,1,797586.93,797586.93,36,2028-05-26,90,Active
+PO-00106,2023-11-26,Pure Storage,Storage,Merchant Services,Pure Storage Storage,3,172481.37,517444.11,36,2026-11-10,14,Active
+PO-00107,2026-01-31,Azure,Cloud Services,Merchant Services,Azure Cloud Services,1,652717.17,652717.17,12,2027-01-26,49,Active
+PO-00108,2026-01-16,Supermicro,Server Hardware,Corporate IT,Supermicro Server Hardware,1,32333.43,32333.43,36,2028-12-31,73,Active
+PO-00109,2025-10-17,HPE,Server Hardware,Corporate IT,HPE Server Hardware,12,31037.45,372449.40,60,2030-09-21,61,Active
+PO-00110,2025-09-19,Oracle,Software License,Merchant Services,Oracle Software License,225,220271.23,49561026.75,12,2026-09-14,70,Active
+PO-00111,2023-01-29,GCP,Cloud Services,Fraud & Risk,GCP Cloud Services,1,255492.61,255492.61,36,2026-01-13,54,In Procurement
+PO-00112,2025-10-17,Supermicro,Server Hardware,Core Payments,Supermicro Server Hardware,21,38789.30,814575.30,60,2030-09-21,76,Active
+PO-00113,2025-08-25,Salesforce,Software License,Merchant Services,Salesforce Software License,213,208763.62,44466651.06,12,2026-08-20,56,Active
+PO-00114,2023-05-23,ServiceNow,Software License,Consumer Products,ServiceNow Software License,451,34558.83,15586032.33,24,2025-05-12,71,In Procurement
+PO-00115,2023-01-06,Zscaler,Security,Merchant Services,Zscaler Security,33,51755.22,1707922.26,24,2024-12-26,61,Pending Renewal
+PO-00116,2024-12-07,Azure,Cloud Services,Fraud & Risk,Azure Cloud Services,1,435478.66,435478.66,24,2026-11-27,26,Pending Renewal
+PO-00117,2024-05-04,Zscaler,Security,Data Platform,Zscaler Security,21,157180.29,3300786.09,36,2027-04-19,35,Active
+PO-00118,2025-02-19,Lenovo,Server Hardware,Consumer Products,Lenovo Server Hardware,16,34093.43,545494.88,36,2028-02-04,97,Retired
+PO-00119,2024-11-10,Palo Alto,Security,Data Platform,Palo Alto Security,3,27093.10,81279.30,12,2025-11-05,84,Pending Renewal
+PO-00120,2023-11-13,Dell,Laptops,Consumer Products,Dell Laptops,83,2265.94,188073.02,12,2024-11-07,51,Active
+PO-00121,2023-06-14,Okta,Security,Merchant Services,Okta Security,40,126223.30,5048932.00,24,2025-06-03,94,Active
+PO-00122,2023-03-15,Dell EMC,Storage,Consumer Products,Dell EMC Storage,4,220010.01,880040.04,60,2028-02-17,33,Active
+PO-00123,2023-07-21,Juniper,Network Hardware,Fraud & Risk,Juniper Network Hardware,12,15393.62,184723.44,60,2028-06-24,65,Active
+PO-00124,2023-04-25,Azure,Cloud Services,Core Payments,Azure Cloud Services,1,266255.99,266255.99,24,2025-04-14,58,Active
+PO-00125,2026-03-05,Pure Storage,Storage,Fraud & Risk,Pure Storage Storage,2,139824.08,279648.16,60,2031-02-07,71,Active
+PO-00126,2023-10-21,Datadog,Software License,Corporate IT,Datadog Software License,350,60587.03,21205460.50,12,2024-10-15,55,Active
+PO-00127,2025-08-10,Azure,Cloud Services,Data Platform,Azure Cloud Services,1,536804.17,536804.17,24,2027-07-31,62,Active
+PO-00128,2025-07-24,Dell EMC,Storage,Merchant Services,Dell EMC Storage,4,177223.68,708894.72,36,2028-07-08,56,Active
+PO-00129,2025-01-05,HP,Laptops,Core Payments,HP Laptops,131,2191.55,287093.05,60,2029-12-10,58,Active
+PO-00130,2023-04-11,Zscaler,Security,Merchant Services,Zscaler Security,1,104037.58,104037.58,36,2026-03-26,100,Retired
+PO-00131,2024-01-25,Apple,Laptops,Fraud & Risk,Apple Laptops,190,1769.41,336187.90,60,2028-12-29,67,In Procurement
+PO-00132,2023-03-22,GCP,Cloud Services,Fraud & Risk,GCP Cloud Services,1,723688.93,723688.93,24,2025-03-11,100,In Procurement
+PO-00133,2023-07-04,Dell,Laptops,Corporate IT,Dell Laptops,196,3104.14,608411.44,36,2026-06-18,57,Pending Renewal
+PO-00134,2023-12-03,Splunk,Software License,Corporate IT,Splunk Software License,257,228415.00,58702655.00,24,2025-11-22,88,In Procurement
+PO-00135,2025-08-17,Apple,Laptops,Consumer Products,Apple Laptops,183,3291.00,602253.00,12,2026-08-12,100,In Procurement
+PO-00136,2026-02-15,GCP,Cloud Services,Consumer Products,GCP Cloud Services,1,774143.10,774143.10,24,2028-02-05,100,Active
+PO-00137,2025-07-20,Zscaler,Security,Core Payments,Zscaler Security,17,98900.15,1681302.55,24,2027-07-10,52,Pending Renewal
+PO-00138,2026-02-23,Apple,Laptops,Core Payments,Apple Laptops,129,2425.84,312933.36,36,2029-02-07,38,Pending Renewal
+PO-00139,2024-09-10,Cisco,Network Hardware,Consumer Products,Cisco Network Hardware,8,109579.58,876636.64,60,2029-08-15,57,Active
+PO-00140,2026-01-05,Pure Storage,Storage,Core Payments,Pure Storage Storage,1,70178.01,70178.01,12,2026-12-31,74,Active
+PO-00141,2023-11-13,Apple,Laptops,Consumer Products,Apple Laptops,286,2289.73,654862.78,36,2026-10-28,44,Pending Renewal
+PO-00142,2025-06-29,Apple,Laptops,Core Payments,Apple Laptops,199,1764.90,351215.10,12,2026-06-24,33,In Procurement
+PO-00143,2025-01-04,NetApp,Storage,Consumer Products,NetApp Storage,3,142949.48,428848.44,12,2025-12-30,56,Active
+PO-00144,2023-02-13,Zscaler,Security,Core Payments,Zscaler Security,43,42118.52,1811096.36,12,2024-02-08,76,In Procurement
+PO-00145,2026-02-09,NetApp,Storage,Fraud & Risk,NetApp Storage,5,63223.31,316116.55,12,2027-02-04,33,Active
+PO-00146,2023-10-24,NetApp,Storage,Corporate IT,NetApp Storage,1,80159.59,80159.59,12,2024-10-18,47,Pending Renewal
+PO-00147,2025-01-03,NetApp,Storage,Core Payments,NetApp Storage,1,45973.76,45973.76,12,2025-12-29,64,Active
+PO-00148,2023-05-11,HPE,Server Hardware,Consumer Products,HPE Server Hardware,14,27465.16,384512.24,36,2026-04-25,65,Active
+PO-00149,2023-03-30,ServiceNow,Software License,Core Payments,ServiceNow Software License,232,126207.75,29280198.00,36,2026-03-14,77,Pending Renewal
+PO-00150,2025-09-07,Pure Storage,Storage,Consumer Products,Pure Storage Storage,1,29293.97,29293.97,36,2028-08-22,24,Active
+PO-00151,2023-06-15,AWS,Cloud Services,Data Platform,AWS Cloud Services,1,68057.67,68057.67,24,2025-06-04,61,Active
+PO-00152,2025-02-19,Salesforce,Software License,Corporate IT,Salesforce Software License,281,178182.12,50069175.72,36,2028-02-04,62,Pending Renewal
+PO-00153,2023-08-23,Pure Storage,Storage,Corporate IT,Pure Storage Storage,5,116096.84,580484.20,60,2028-07-27,46,Retired
+PO-00154,2025-04-27,Palo Alto,Security,Data Platform,Palo Alto Security,29,160415.93,4652061.97,24,2027-04-17,37,In Procurement
+PO-00155,2024-10-02,HP,Laptops,Data Platform,HP Laptops,58,2012.63,116732.54,60,2029-09-06,66,Retired
+PO-00156,2023-07-17,Dell,Laptops,Core Payments,Dell Laptops,53,1442.40,76447.20,60,2028-06-20,100,Retired
+PO-00157,2026-02-24,NetApp,Storage,Corporate IT,NetApp Storage,1,152819.29,152819.29,60,2031-01-29,62,Active
+PO-00158,2024-10-01,Zscaler,Security,Consumer Products,Zscaler Security,4,174469.76,697879.04,24,2026-09-21,77,Active
+PO-00159,2024-04-04,ServiceNow,Software License,Fraud & Risk,ServiceNow Software License,80,164355.71,13148456.80,12,2025-03-30,51,Active
+PO-00160,2026-02-22,Okta,Security,Corporate IT,Okta Security,15,146263.74,2193956.10,36,2029-02-06,90,Pending Renewal
+PO-00161,2024-07-01,GCP,Cloud Services,Corporate IT,GCP Cloud Services,1,491105.98,491105.98,12,2025-06-26,82,Active
+PO-00162,2026-03-05,Pure Storage,Storage,Core Payments,Pure Storage Storage,2,219417.74,438835.48,60,2031-02-07,99,Active
+PO-00163,2023-07-07,HPE,Server Hardware,Consumer Products,HPE Server Hardware,21,43956.98,923096.58,60,2028-06-10,47,Active
+PO-00164,2026-03-08,NetApp,Storage,Merchant Services,NetApp Storage,3,184575.05,553725.15,60,2031-02-10,63,Active
+PO-00165,2023-06-17,HPE,Server Hardware,Fraud & Risk,HPE Server Hardware,25,30860.01,771500.25,36,2026-06-01,46,Pending Renewal
+PO-00166,2023-08-22,HP,Laptops,Merchant Services,HP Laptops,120,3162.85,379542.00,36,2026-08-06,76,Active
+PO-00167,2025-12-15,Lenovo,Server Hardware,Consumer Products,Lenovo Server Hardware,22,29945.97,658811.34,60,2030-11-19,62,Pending Renewal
+PO-00168,2023-10-09,Dell,Server Hardware,Fraud & Risk,Dell Server Hardware,10,42976.99,429769.90,36,2026-09-23,82,Active
+PO-00169,2023-12-26,NetApp,Storage,Core Payments,NetApp Storage,4,190548.32,762193.28,12,2024-12-20,42,Pending Renewal
+PO-00170,2023-03-28,Salesforce,Software License,Merchant Services,Salesforce Software License,37,99569.26,3684062.62,24,2025-03-17,91,Active
+PO-00171,2025-05-05,Dell,Laptops,Merchant Services,Dell Laptops,229,2690.84,616202.36,36,2028-04-19,71,Active
+PO-00172,2023-08-05,Palo Alto,Network Hardware,Consumer Products,Palo Alto Network Hardware,6,15134.94,90809.64,12,2024-07-30,70,Active
+PO-00173,2024-09-27,Datadog,Software License,Corporate IT,Datadog Software License,41,99243.79,4068995.39,36,2027-09-12,57,Active
+PO-00174,2024-12-16,Dell,Server Hardware,Corporate IT,Dell Server Hardware,17,15174.44,257965.48,36,2027-12-01,84,Retired
+PO-00175,2024-02-09,Palo Alto,Security,Fraud & Risk,Palo Alto Security,7,30627.74,214394.18,12,2025-02-03,38,Retired
+PO-00176,2026-02-28,HPE,Server Hardware,Consumer Products,HPE Server Hardware,16,25166.26,402660.16,60,2031-02-02,45,Active
+PO-00177,2024-10-09,GCP,Cloud Services,Consumer Products,GCP Cloud Services,1,692755.03,692755.03,12,2025-10-04,45,Retired
+PO-00178,2023-06-01,Pure Storage,Storage,Corporate IT,Pure Storage Storage,1,97706.42,97706.42,36,2026-05-16,77,Pending Renewal
+PO-00179,2023-07-04,Lenovo,Server Hardware,Merchant Services,Lenovo Server Hardware,3,31852.66,95557.98,60,2028-06-07,50,Pending Renewal
+PO-00180,2026-03-16,Salesforce,Software License,Core Payments,Salesforce Software License,231,227307.96,52508138.76,36,2029-02-28,55,Active
+PO-00181,2023-05-07,Dell EMC,Storage,Data Platform,Dell EMC Storage,5,50452.35,252261.75,36,2026-04-21,100,Active
+PO-00182,2025-06-18,HPE,Server Hardware,Core Payments,HPE Server Hardware,8,34182.00,273456.00,60,2030-05-23,96,Pending Renewal
+PO-00183,2025-03-04,Oracle,Software License,Merchant Services,Oracle Software License,191,229525.23,43839318.93,24,2027-02-22,73,Active
+PO-00184,2025-03-02,Okta,Security,Core Payments,Okta Security,22,21538.54,473847.88,24,2027-02-20,35,Active
+PO-00185,2023-10-17,GCP,Cloud Services,Corporate IT,GCP Cloud Services,1,273356.01,273356.01,24,2025-10-06,56,Retired
+PO-00186,2025-02-10,Lenovo,Laptops,Corporate IT,Lenovo Laptops,53,2004.91,106260.23,60,2030-01-15,97,In Procurement
+PO-00187,2025-05-17,NetApp,Storage,Consumer Products,NetApp Storage,5,36961.45,184807.25,60,2030-04-21,54,Active
+PO-00188,2023-10-09,Juniper,Network Hardware,Data Platform,Juniper Network Hardware,4,31052.45,124209.80,12,2024-10-03,83,Active
+PO-00189,2025-12-14,NetApp,Storage,Corporate IT,NetApp Storage,5,211253.16,1056265.80,12,2026-12-09,44,Pending Renewal
+PO-00190,2023-12-06,Palo Alto,Network Hardware,Fraud & Risk,Palo Alto Network Hardware,3,25797.29,77391.87,60,2028-11-09,29,Active
+PO-00191,2025-06-28,Supermicro,Server Hardware,Merchant Services,Supermicro Server Hardware,22,34624.67,761742.74,60,2030-06-02,60,Active
+PO-00192,2024-02-02,Arista,Network Hardware,Merchant Services,Arista Network Hardware,8,108957.05,871656.40,36,2027-01-17,100,Retired
+PO-00193,2025-02-21,Datadog,Software License,Data Platform,Datadog Software License,394,70802.05,27896007.70,36,2028-02-06,11,In Procurement
+PO-00194,2025-01-30,Arista,Network Hardware,Merchant Services,Arista Network Hardware,1,78735.59,78735.59,60,2030-01-04,58,Active
+PO-00195,2023-11-25,GCP,Cloud Services,Core Payments,GCP Cloud Services,1,76261.35,76261.35,24,2025-11-14,42,In Procurement
+PO-00196,2023-02-24,Dell,Laptops,Fraud & Risk,Dell Laptops,240,3500.04,840009.60,36,2026-02-08,76,Active
+PO-00197,2025-02-06,Apple,Laptops,Fraud & Risk,Apple Laptops,207,3785.77,783654.39,12,2026-02-01,100,In Procurement
+PO-00198,2024-08-10,GCP,Cloud Services,Merchant Services,GCP Cloud Services,1,118703.67,118703.67,24,2026-07-31,76,Retired
+PO-00199,2023-01-11,Palo Alto,Security,Consumer Products,Palo Alto Security,31,83505.26,2588663.06,12,2024-01-06,83,Active
+PO-00200,2024-08-13,Salesforce,Software License,Corporate IT,Salesforce Software License,271,106102.06,28753658.26,12,2025-08-08,69,Active
+PO-00201,2025-07-25,Dell,Server Hardware,Fraud & Risk,Dell Server Hardware,14,31641.21,442976.94,12,2026-07-20,100,Pending Renewal
+PO-00202,2023-10-22,Microsoft,Software License,Consumer Products,Microsoft Software License,264,143974.34,38009225.76,24,2025-10-11,98,Active
+PO-00203,2023-06-25,Lenovo,Server Hardware,Fraud & Risk,Lenovo Server Hardware,19,23413.00,444847.00,60,2028-05-29,76,Pending Renewal
+PO-00204,2025-08-20,ServiceNow,Software License,Corporate IT,ServiceNow Software License,284,5573.41,1582848.44,12,2026-08-15,66,Retired
+PO-00205,2023-05-19,Apple,Laptops,Merchant Services,Apple Laptops,18,2128.44,38311.92,36,2026-05-03,69,Active
+PO-00206,2024-11-24,Azure,Cloud Services,Fraud & Risk,Azure Cloud Services,1,288316.25,288316.25,36,2027-11-09,100,Active
+PO-00207,2023-10-04,Zscaler,Security,Consumer Products,Zscaler Security,31,115553.77,3582166.87,12,2024-09-28,56,Active
+PO-00208,2024-10-08,NetApp,Storage,Core Payments,NetApp Storage,2,223160.74,446321.48,36,2027-09-23,16,Pending Renewal
+PO-00209,2024-01-27,HP,Laptops,Merchant Services,HP Laptops,28,3158.56,88439.68,36,2027-01-11,44,In Procurement
+PO-00210,2025-06-13,Azure,Cloud Services,Merchant Services,Azure Cloud Services,1,641480.51,641480.51,24,2027-06-03,97,Retired
+PO-00211,2025-10-15,HP,Laptops,Merchant Services,HP Laptops,105,2490.13,261463.65,36,2028-09-29,91,In Procurement
+PO-00212,2024-01-05,Supermicro,Server Hardware,Core Payments,Supermicro Server Hardware,14,30290.77,424070.78,60,2028-12-09,55,Active
+PO-00213,2024-09-19,NetApp,Storage,Core Payments,NetApp Storage,3,170316.02,510948.06,36,2027-09-04,49,Retired
+PO-00214,2024-12-23,Apple,Laptops,Data Platform,Apple Laptops,31,3089.72,95781.32,60,2029-11-27,54,Active
+PO-00215,2025-04-11,Dell EMC,Storage,Core Payments,Dell EMC Storage,1,172728.21,172728.21,36,2028-03-26,31,Active
+PO-00216,2023-03-13,HPE,Server Hardware,Corporate IT,HPE Server Hardware,22,36908.54,811987.88,12,2024-03-07,64,Active
+PO-00217,2023-03-08,Juniper,Network Hardware,Merchant Services,Juniper Network Hardware,7,114188.72,799321.04,60,2028-02-10,81,Active
+PO-00218,2025-01-21,Pure Storage,Storage,Core Payments,Pure Storage Storage,5,47358.35,236791.75,36,2028-01-06,87,Active
+PO-00219,2024-01-17,Azure,Cloud Services,Fraud & Risk,Azure Cloud Services,1,30471.54,30471.54,24,2026-01-06,19,Active
+PO-00220,2024-08-07,Pure Storage,Storage,Consumer Products,Pure Storage Storage,4,65424.05,261696.20,60,2029-07-12,62,Active
+PO-00221,2025-06-30,Cisco,Network Hardware,Fraud & Risk,Cisco Network Hardware,2,56984.91,113969.82,12,2026-06-25,89,Active
+PO-00222,2023-11-19,AWS,Cloud Services,Corporate IT,AWS Cloud Services,1,714152.03,714152.03,36,2026-11-03,14,Retired
+PO-00223,2023-09-06,GCP,Cloud Services,Fraud & Risk,GCP Cloud Services,1,411917.04,411917.04,12,2024-08-31,72,Active
+PO-00224,2026-02-03,Lenovo,Server Hardware,Corporate IT,Lenovo Server Hardware,19,21649.71,411344.49,12,2027-01-29,52,Pending Renewal
+PO-00225,2025-09-07,Dell,Server Hardware,Merchant Services,Dell Server Hardware,13,44985.02,584805.26,60,2030-08-12,48,Pending Renewal
+PO-00226,2025-08-12,HPE,Server Hardware,Merchant Services,HPE Server Hardware,21,10744.11,225626.31,60,2030-07-17,80,Pending Renewal
+PO-00227,2023-09-22,NetApp,Storage,Corporate IT,NetApp Storage,5,57761.34,288806.70,36,2026-09-06,23,In Procurement
+PO-00228,2024-04-06,HPE,Server Hardware,Merchant Services,HPE Server Hardware,6,13992.78,83956.68,36,2027-03-22,67,Pending Renewal
+PO-00229,2026-02-02,NetApp,Storage,Merchant Services,NetApp Storage,2,164238.42,328476.84,36,2029-01-17,81,Pending Renewal
+PO-00230,2024-11-22,HPE,Server Hardware,Corporate IT,HPE Server Hardware,19,13705.19,260398.61,60,2029-10-27,81,Active
+PO-00231,2026-03-27,CrowdStrike,Security,Core Payments,CrowdStrike Security,3,170995.70,512987.10,24,2028-03-16,46,Active
+PO-00232,2026-01-22,Salesforce,Software License,Core Payments,Salesforce Software License,255,222304.72,56687703.60,24,2028-01-12,37,Retired
+PO-00233,2023-05-30,Pure Storage,Storage,Fraud & Risk,Pure Storage Storage,4,84896.96,339587.84,60,2028-05-03,90,Active
+PO-00234,2024-10-15,Lenovo,Laptops,Merchant Services,Lenovo Laptops,83,2012.71,167054.93,60,2029-09-19,76,In Procurement
+PO-00235,2023-08-06,Pure Storage,Storage,Fraud & Risk,Pure Storage Storage,3,136020.33,408060.99,36,2026-07-21,68,Active
+PO-00236,2025-02-25,Arista,Network Hardware,Core Payments,Arista Network Hardware,1,38374.38,38374.38,60,2030-01-30,79,Active
+PO-00237,2024-01-24,Arista,Network Hardware,Merchant Services,Arista Network Hardware,10,87929.77,879297.70,12,2025-01-18,41,Active
+PO-00238,2025-11-01,Pure Storage,Storage,Core Payments,Pure Storage Storage,1,237129.71,237129.71,36,2028-10-16,68,Active
+PO-00239,2025-08-21,Juniper,Network Hardware,Core Payments,Juniper Network Hardware,1,37355.98,37355.98,36,2028-08-05,26,Active
+PO-00240,2025-01-19,Juniper,Network Hardware,Consumer Products,Juniper Network Hardware,6,92843.53,557061.18,12,2026-01-14,58,Active
+PO-00241,2025-03-02,HPE,Server Hardware,Merchant Services,HPE Server Hardware,18,18678.26,336208.68,60,2030-02-04,41,In Procurement
+PO-00242,2023-07-18,Salesforce,Software License,Corporate IT,Salesforce Software License,61,32601.52,1988692.72,24,2025-07-07,76,Active
+PO-00243,2024-02-12,Okta,Security,Corporate IT,Okta Security,24,137118.91,3290853.84,36,2027-01-27,42,Active
+PO-00244,2025-11-29,HPE,Server Hardware,Consumer Products,HPE Server Hardware,11,37746.74,415214.14,36,2028-11-13,66,Active
+PO-00245,2024-10-14,ServiceNow,Software License,Fraud & Risk,ServiceNow Software License,168,232876.50,39123252.00,12,2025-10-09,44,In Procurement
+PO-00246,2025-12-26,Dell EMC,Storage,Merchant Services,Dell EMC Storage,5,209648.01,1048240.05,36,2028-12-10,86,Retired
+PO-00247,2024-11-09,Splunk,Software License,Data Platform,Splunk Software License,418,4650.92,1944084.56,36,2027-10-25,85,Active
+PO-00248,2026-03-30,CrowdStrike,Security,Corporate IT,CrowdStrike Security,31,51467.83,1595502.73,36,2029-03-14,82,Active
+PO-00249,2025-02-17,AWS,Cloud Services,Corporate IT,AWS Cloud Services,1,144704.53,144704.53,12,2026-02-12,75,Pending Renewal
+PO-00250,2025-05-07,AWS,Cloud Services,Fraud & Risk,AWS Cloud Services,1,358420.47,358420.47,12,2026-05-02,53,Active
+PO-00251,2025-11-28,HP,Laptops,Consumer Products,HP Laptops,41,3035.02,124435.82,12,2026-11-23,5,Active
+PO-00252,2025-12-27,Datadog,Software License,Merchant Services,Datadog Software License,490,43709.01,21417414.90,24,2027-12-17,38,Pending Renewal
+PO-00253,2024-01-29,Dell EMC,Storage,Consumer Products,Dell EMC Storage,3,158368.00,475104.00,12,2025-01-23,64,Active
+PO-00254,2025-09-28,Okta,Security,Consumer Products,Okta Security,14,125791.98,1761087.72,24,2027-09-18,86,Active
+PO-00255,2026-03-20,Dell EMC,Storage,Consumer Products,Dell EMC Storage,3,82630.50,247891.50,60,2031-02-22,22,Active
+PO-00256,2023-06-11,Okta,Security,Fraud & Risk,Okta Security,19,12361.64,234871.16,24,2025-05-31,55,Active
+PO-00257,2026-01-08,Azure,Cloud Services,Consumer Products,Azure Cloud Services,1,179049.58,179049.58,24,2027-12-29,98,Active
+PO-00258,2025-12-23,HPE,Server Hardware,Fraud & Risk,HPE Server Hardware,2,32783.86,65567.72,12,2026-12-18,54,Retired
+PO-00259,2025-08-25,Cisco,Network Hardware,Core Payments,Cisco Network Hardware,7,42983.77,300886.39,12,2026-08-20,62,Pending Renewal
+PO-00260,2024-02-13,Palo Alto,Network Hardware,Consumer Products,Palo Alto Network Hardware,8,59906.58,479252.64,36,2027-01-28,57,Active
+PO-00261,2024-04-20,Dell EMC,Storage,Core Payments,Dell EMC Storage,1,168290.20,168290.20,60,2029-03-25,64,Active
+PO-00262,2025-03-24,Palo Alto,Network Hardware,Fraud & Risk,Palo Alto Network Hardware,1,119674.76,119674.76,36,2028-03-08,25,Active
+PO-00263,2023-08-08,Azure,Cloud Services,Core Payments,Azure Cloud Services,1,245729.85,245729.85,24,2025-07-28,53,Pending Renewal
+PO-00264,2024-07-12,Datadog,Software License,Fraud & Risk,Datadog Software License,436,126301.06,55067262.16,12,2025-07-07,100,In Procurement
+PO-00265,2024-06-10,Lenovo,Server Hardware,Fraud & Risk,Lenovo Server Hardware,24,24979.84,599516.16,60,2029-05-15,82,In Procurement
+PO-00266,2025-04-10,Dell EMC,Storage,Consumer Products,Dell EMC Storage,2,56241.30,112482.60,36,2028-03-25,100,Pending Renewal
+PO-00267,2023-10-15,NetApp,Storage,Data Platform,NetApp Storage,1,58423.58,58423.58,36,2026-09-29,60,Active
+PO-00268,2024-09-10,Lenovo,Laptops,Data Platform,Lenovo Laptops,146,3680.49,537351.54,60,2029-08-15,82,Retired
+PO-00269,2024-04-28,Microsoft,Software License,Merchant Services,Microsoft Software License,335,90208.25,30219763.75,12,2025-04-23,55,Active
+PO-00270,2024-08-27,Apple,Laptops,Consumer Products,Apple Laptops,70,2860.65,200245.50,36,2027-08-12,46,Pending Renewal
+PO-00271,2025-02-04,Arista,Network Hardware,Fraud & Risk,Arista Network Hardware,8,22616.34,180930.72,36,2028-01-20,53,In Procurement
+PO-00272,2023-06-17,Salesforce,Software License,Fraud & Risk,Salesforce Software License,391,62242.62,24336864.42,36,2026-06-01,21,Pending Renewal
+PO-00273,2026-01-26,NetApp,Storage,Corporate IT,NetApp Storage,1,29513.14,29513.14,60,2030-12-31,76,Active
+PO-00274,2025-09-28,Dell EMC,Storage,Data Platform,Dell EMC Storage,1,174869.38,174869.38,12,2026-09-23,94,Pending Renewal
+PO-00275,2025-07-24,Dell,Laptops,Data Platform,Dell Laptops,77,2534.44,195151.88,60,2030-06-28,90,In Procurement
+PO-00276,2023-01-07,Dell EMC,Storage,Core Payments,Dell EMC Storage,4,74797.45,299189.80,60,2027-12-12,76,Active
+PO-00277,2023-05-11,Microsoft,Software License,Core Payments,Microsoft Software License,217,86459.95,18761809.15,36,2026-04-25,100,Active
+PO-00278,2023-10-05,Dell,Laptops,Merchant Services,Dell Laptops,219,1667.95,365281.05,60,2028-09-08,66,Retired
+PO-00279,2025-02-12,Azure,Cloud Services,Merchant Services,Azure Cloud Services,1,364344.33,364344.33,24,2027-02-02,100,In Procurement
+PO-00280,2024-01-01,Oracle,Software License,Consumer Products,Oracle Software License,441,87268.59,38485448.19,36,2026-12-16,95,Active
+PO-00281,2023-02-16,Oracle,Software License,Consumer Products,Oracle Software License,115,208787.99,24010618.85,24,2025-02-05,33,Active
+PO-00282,2023-11-14,Datadog,Software License,Fraud & Risk,Datadog Software License,127,115426.01,14659103.27,24,2025-11-03,76,Active
+PO-00283,2023-02-02,AWS,Cloud Services,Core Payments,AWS Cloud Services,1,495789.33,495789.33,12,2024-01-28,70,Active
+PO-00284,2024-04-24,Dell,Laptops,Fraud & Risk,Dell Laptops,32,2245.89,71868.48,60,2029-03-29,77,Active
+PO-00285,2024-04-24,CrowdStrike,Security,Fraud & Risk,CrowdStrike Security,33,178859.60,5902366.80,36,2027-04-09,42,In Procurement
+PO-00286,2025-12-03,Azure,Cloud Services,Fraud & Risk,Azure Cloud Services,1,702244.07,702244.07,12,2026-11-28,54,Active
+PO-00287,2023-12-25,Pure Storage,Storage,Core Payments,Pure Storage Storage,5,237902.26,1189511.30,60,2028-11-28,55,Active
+PO-00288,2024-10-14,Dell EMC,Storage,Consumer Products,Dell EMC Storage,4,199664.08,798656.32,60,2029-09-18,42,Active
+PO-00289,2026-01-06,Lenovo,Laptops,Merchant Services,Lenovo Laptops,202,1678.09,338974.18,36,2028-12-21,68,In Procurement
+PO-00290,2025-05-03,AWS,Cloud Services,Data Platform,AWS Cloud Services,1,454284.90,454284.90,36,2028-04-17,83,Pending Renewal
+PO-00291,2023-06-11,Palo Alto,Network Hardware,Fraud & Risk,Palo Alto Network Hardware,5,28383.72,141918.60,36,2026-05-26,73,Retired
+PO-00292,2023-03-22,Palo Alto,Security,Core Payments,Palo Alto Security,18,71004.40,1278079.20,12,2024-03-16,60,Active
+PO-00293,2024-11-12,Palo Alto,Security,Data Platform,Palo Alto Security,14,157157.92,2200210.88,24,2026-11-02,71,Active
+PO-00294,2024-02-23,AWS,Cloud Services,Consumer Products,AWS Cloud Services,1,732408.62,732408.62,24,2026-02-12,66,Active
+PO-00295,2025-01-05,Splunk,Software License,Merchant Services,Splunk Software License,195,116829.49,22781750.55,24,2026-12-26,66,Active
+PO-00296,2024-10-17,Dell,Laptops,Consumer Products,Dell Laptops,250,3180.24,795060.00,12,2025-10-12,94,Active
+PO-00297,2023-10-26,Pure Storage,Storage,Core Payments,Pure Storage Storage,5,218059.94,1090299.70,12,2024-10-20,64,Pending Renewal
+PO-00298,2024-04-16,Azure,Cloud Services,Merchant Services,Azure Cloud Services,1,164991.51,164991.51,24,2026-04-06,100,Pending Renewal
+PO-00299,2024-11-22,Palo Alto,Security,Data Platform,Palo Alto Security,36,119556.39,4304030.04,24,2026-11-12,70,Retired
+PO-00300,2024-12-22,GCP,Cloud Services,Data Platform,GCP Cloud Services,1,142904.58,142904.58,12,2025-12-17,42,Active
+PO-00301,2026-01-15,GCP,Cloud Services,Data Platform,GCP Cloud Services,1,734350.52,734350.52,36,2028-12-30,93,In Procurement
+PO-00302,2025-04-24,CrowdStrike,Security,Consumer Products,CrowdStrike Security,4,138759.30,555037.20,12,2026-04-19,60,In Procurement
+PO-00303,2025-11-01,AWS,Cloud Services,Core Payments,AWS Cloud Services,1,17221.75,17221.75,24,2027-10-22,46,Retired
+PO-00304,2025-12-25,Datadog,Software License,Consumer Products,Datadog Software License,250,4425.08,1106270.00,36,2028-12-09,89,Active
+PO-00305,2024-08-10,Dell,Server Hardware,Corporate IT,Dell Server Hardware,24,18165.41,435969.84,12,2025-08-05,33,Active
+PO-00306,2024-05-08,Palo Alto,Security,Core Payments,Palo Alto Security,7,96767.45,677372.15,12,2025-05-03,67,Pending Renewal
+PO-00307,2023-06-11,Splunk,Software License,Merchant Services,Splunk Software License,137,198836.61,27240615.57,24,2025-05-31,91,Active
+PO-00308,2023-03-06,AWS,Cloud Services,Merchant Services,AWS Cloud Services,1,526451.22,526451.22,12,2024-02-29,61,Active
+PO-00309,2023-01-20,HP,Laptops,Corporate IT,HP Laptops,253,1345.90,340512.70,60,2027-12-25,80,Active
+PO-00310,2023-03-29,Azure,Cloud Services,Corporate IT,Azure Cloud Services,1,716885.06,716885.06,12,2024-03-23,90,Active
+PO-00311,2024-07-28,Zscaler,Security,Merchant Services,Zscaler Security,3,166727.87,500183.61,36,2027-07-13,62,In Procurement
+PO-00312,2025-03-26,NetApp,Storage,Fraud & Risk,NetApp Storage,5,48885.02,244425.10,12,2026-03-21,65,Active
+PO-00313,2026-01-12,Arista,Network Hardware,Corporate IT,Arista Network Hardware,7,82859.02,580013.14,36,2028-12-27,41,In Procurement
+PO-00314,2025-06-14,GCP,Cloud Services,Core Payments,GCP Cloud Services,1,52420.18,52420.18,12,2026-06-09,92,In Procurement
+PO-00315,2025-03-23,Lenovo,Server Hardware,Corporate IT,Lenovo Server Hardware,25,30713.01,767825.25,36,2028-03-07,85,Active
+PO-00316,2025-06-03,Lenovo,Laptops,Merchant Services,Lenovo Laptops,293,3646.97,1068562.21,12,2026-05-29,71,Retired
+PO-00317,2024-08-27,Salesforce,Software License,Data Platform,Salesforce Software License,44,193155.77,8498853.88,12,2025-08-22,65,Active
+PO-00318,2023-08-07,Lenovo,Laptops,Consumer Products,Lenovo Laptops,209,2023.36,422882.24,12,2024-08-01,59,Active
+PO-00319,2023-06-28,Pure Storage,Storage,Merchant Services,Pure Storage Storage,3,39024.38,117073.14,12,2024-06-22,42,Pending Renewal
+PO-00320,2023-07-10,Dell,Laptops,Core Payments,Dell Laptops,55,2120.18,116609.90,60,2028-06-13,79,Pending Renewal
+PO-00321,2025-03-05,Okta,Security,Data Platform,Okta Security,1,56073.29,56073.29,12,2026-02-28,63,Active
+PO-00322,2023-10-12,ServiceNow,Software License,Fraud & Risk,ServiceNow Software License,351,95492.64,33517916.64,24,2025-10-01,40,Active
+PO-00323,2024-07-19,Pure Storage,Storage,Fraud & Risk,Pure Storage Storage,1,54293.74,54293.74,36,2027-07-04,56,Active
+PO-00324,2024-02-05,NetApp,Storage,Consumer Products,NetApp Storage,4,154544.50,618178.00,36,2027-01-20,100,Active
+PO-00325,2025-02-17,Juniper,Network Hardware,Core Payments,Juniper Network Hardware,7,43204.98,302434.86,36,2028-02-02,46,In Procurement
+PO-00326,2024-02-16,Palo Alto,Security,Merchant Services,Palo Alto Security,21,110561.97,2321801.37,24,2026-02-05,76,Active
+PO-00327,2025-10-02,Palo Alto,Network Hardware,Merchant Services,Palo Alto Network Hardware,5,89510.55,447552.75,60,2030-09-06,71,Active
+PO-00328,2024-02-14,Zscaler,Security,Merchant Services,Zscaler Security,8,168111.75,1344894.00,36,2027-01-29,48,Pending Renewal
+PO-00329,2024-03-05,Cisco,Network Hardware,Consumer Products,Cisco Network Hardware,8,113442.12,907536.96,36,2027-02-18,80,Active
+PO-00330,2024-09-12,Zscaler,Security,Consumer Products,Zscaler Security,32,29356.35,939403.20,12,2025-09-07,28,Active
+PO-00331,2023-06-01,AWS,Cloud Services,Consumer Products,AWS Cloud Services,1,633370.64,633370.64,24,2025-05-21,93,Active
+PO-00332,2025-01-06,ServiceNow,Software License,Consumer Products,ServiceNow Software License,215,136139.48,29269988.20,36,2027-12-22,66,In Procurement
+PO-00333,2024-05-23,ServiceNow,Software License,Consumer Products,ServiceNow Software License,469,21702.99,10178702.31,36,2027-05-08,61,Pending Renewal
+PO-00334,2023-07-21,Supermicro,Server Hardware,Merchant Services,Supermicro Server Hardware,14,11919.95,166879.30,36,2026-07-05,56,Pending Renewal
+PO-00335,2025-07-01,ServiceNow,Software License,Corporate IT,ServiceNow Software License,353,144021.23,50839494.19,24,2027-06-21,38,Pending Renewal
+PO-00336,2025-09-15,GCP,Cloud Services,Fraud & Risk,GCP Cloud Services,1,798185.15,798185.15,12,2026-09-10,91,Active
+PO-00337,2024-12-03,Dell,Laptops,Core Payments,Dell Laptops,82,2105.65,172663.30,36,2027-11-18,73,Active
+PO-00338,2024-09-06,Dell,Laptops,Data Platform,Dell Laptops,241,2029.16,489027.56,12,2025-09-01,41,In Procurement
+PO-00339,2023-12-03,AWS,Cloud Services,Core Payments,AWS Cloud Services,1,521896.23,521896.23,36,2026-11-17,68,Active
+PO-00340,2025-04-09,Dell EMC,Storage,Data Platform,Dell EMC Storage,4,69486.05,277944.20,60,2030-03-14,81,Active
+PO-00341,2024-02-09,Palo Alto,Network Hardware,Data Platform,Palo Alto Network Hardware,1,89799.66,89799.66,36,2027-01-24,49,Retired
+PO-00342,2023-05-09,Arista,Network Hardware,Merchant Services,Arista Network Hardware,12,98003.93,1176047.16,60,2028-04-12,56,Active
+PO-00343,2023-08-22,Palo Alto,Security,Merchant Services,Palo Alto Security,21,39488.00,829248.00,24,2025-08-11,55,Retired
+PO-00344,2023-08-22,Dell EMC,Storage,Data Platform,Dell EMC Storage,5,107247.84,536239.20,36,2026-08-06,45,Active
+PO-00345,2024-09-01,Zscaler,Security,Corporate IT,Zscaler Security,12,147404.19,1768850.28,36,2027-08-17,40,Active
+PO-00346,2023-10-17,HPE,Server Hardware,Merchant Services,HPE Server Hardware,4,14772.65,59090.60,60,2028-09-20,50,Active
+PO-00347,2025-09-23,Lenovo,Laptops,Corporate IT,Lenovo Laptops,206,2299.90,473779.40,60,2030-08-28,20,Active
+PO-00348,2024-10-06,Oracle,Software License,Data Platform,Oracle Software License,148,35503.99,5254590.52,24,2026-09-26,56,Pending Renewal
+PO-00349,2025-02-25,Lenovo,Server Hardware,Core Payments,Lenovo Server Hardware,16,13051.78,208828.48,60,2030-01-30,42,Retired
+PO-00350,2023-06-19,HP,Laptops,Consumer Products,HP Laptops,237,2470.62,585536.94,60,2028-05-23,67,Active
+PO-00351,2026-01-06,Palo Alto,Security,Merchant Services,Palo Alto Security,3,53099.26,159297.78,24,2027-12-27,79,Retired
+PO-00352,2023-08-22,Zscaler,Security,Corporate IT,Zscaler Security,33,24811.92,818793.36,24,2025-08-11,89,In Procurement
+PO-00353,2025-06-22,Splunk,Software License,Corporate IT,Splunk Software License,422,189318.17,79892267.74,36,2028-06-06,72,Retired
+PO-00354,2024-12-14,Palo Alto,Security,Merchant Services,Palo Alto Security,3,83703.16,251109.48,12,2025-12-09,90,Active
+PO-00355,2024-12-19,CrowdStrike,Security,Fraud & Risk,CrowdStrike Security,14,146872.98,2056221.72,36,2027-12-04,50,Pending Renewal
+PO-00356,2025-12-26,Arista,Network Hardware,Fraud & Risk,Arista Network Hardware,1,70558.55,70558.55,36,2028-12-10,53,Pending Renewal
+PO-00357,2026-03-18,Oracle,Software License,Merchant Services,Oracle Software License,361,73512.36,26537961.96,24,2028-03-07,93,Retired
+PO-00358,2023-05-02,CrowdStrike,Security,Fraud & Risk,CrowdStrike Security,49,142495.93,6982300.57,24,2025-04-21,60,In Procurement
+PO-00359,2024-10-21,AWS,Cloud Services,Consumer Products,AWS Cloud Services,1,207245.02,207245.02,12,2025-10-16,70,Active
+PO-00360,2023-06-04,Juniper,Network Hardware,Consumer Products,Juniper Network Hardware,7,48144.82,337013.74,60,2028-05-08,35,In Procurement
+PO-00361,2025-01-25,CrowdStrike,Security,Data Platform,CrowdStrike Security,33,136215.42,4495108.86,24,2027-01-15,86,Active
+PO-00362,2025-01-03,CrowdStrike,Security,Consumer Products,CrowdStrike Security,30,116097.10,3482913.00,12,2025-12-29,61,In Procurement
+PO-00363,2024-03-09,Datadog,Software License,Fraud & Risk,Datadog Software License,496,107695.95,53417191.20,24,2026-02-27,63,Active
+PO-00364,2024-12-04,ServiceNow,Software License,Fraud & Risk,ServiceNow Software License,290,213179.43,61822034.70,36,2027-11-19,100,In Procurement
+PO-00365,2025-07-30,Dell,Server Hardware,Core Payments,Dell Server Hardware,21,37003.92,777082.32,12,2026-07-25,98,Active
+PO-00366,2023-09-28,Dell,Laptops,Data Platform,Dell Laptops,113,3788.80,428134.40,60,2028-09-01,98,Active
+PO-00367,2023-06-18,Juniper,Network Hardware,Core Payments,Juniper Network Hardware,11,46450.07,510950.77,36,2026-06-02,51,Pending Renewal
+PO-00368,2023-07-06,Dell EMC,Storage,Consumer Products,Dell EMC Storage,2,115869.27,231738.54,60,2028-06-09,40,Active
+PO-00369,2024-04-08,HPE,Server Hardware,Data Platform,HPE Server Hardware,3,12909.89,38729.67,60,2029-03-13,66,Retired
+PO-00370,2024-04-13,NetApp,Storage,Data Platform,NetApp Storage,2,127259.56,254519.12,36,2027-03-29,65,Active
+PO-00371,2024-09-04,AWS,Cloud Services,Core Payments,AWS Cloud Services,1,300373.73,300373.73,12,2025-08-30,38,In Procurement
+PO-00372,2023-12-03,Arista,Network Hardware,Core Payments,Arista Network Hardware,9,69778.49,628006.41,36,2026-11-17,95,Active
+PO-00373,2025-06-25,AWS,Cloud Services,Consumer Products,AWS Cloud Services,1,736716.36,736716.36,12,2026-06-20,76,In Procurement
+PO-00374,2023-10-14,Supermicro,Server Hardware,Merchant Services,Supermicro Server Hardware,14,19636.64,274912.96,12,2024-10-08,73,Active
+PO-00375,2023-02-24,AWS,Cloud Services,Fraud & Risk,AWS Cloud Services,1,625386.03,625386.03,36,2026-02-08,78,Pending Renewal
+PO-00376,2023-04-22,Oracle,Software License,Consumer Products,Oracle Software License,201,74237.74,14921785.74,12,2024-04-16,57,Active
+PO-00377,2023-05-26,Dell,Laptops,Fraud & Risk,Dell Laptops,265,2859.01,757637.65,60,2028-04-29,70,Active
+PO-00378,2026-01-23,NetApp,Storage,Data Platform,NetApp Storage,5,113902.93,569514.65,60,2030-12-28,65,Active
+PO-00379,2023-01-29,Zscaler,Security,Core Payments,Zscaler Security,2,107788.61,215577.22,24,2025-01-18,78,In Procurement
+PO-00380,2025-05-17,Apple,Laptops,Consumer Products,Apple Laptops,266,3194.49,849734.34,60,2030-04-21,100,Active
+PO-00381,2025-11-13,HPE,Server Hardware,Merchant Services,HPE Server Hardware,3,19466.55,58399.65,12,2026-11-08,80,Active
+PO-00382,2024-05-03,Dell,Laptops,Merchant Services,Dell Laptops,233,3097.89,721808.37,12,2025-04-28,65,Active
+PO-00383,2023-04-23,Supermicro,Server Hardware,Core Payments,Supermicro Server Hardware,15,30654.98,459824.70,36,2026-04-07,51,Active
+PO-00384,2023-12-02,Dell,Server Hardware,Consumer Products,Dell Server Hardware,5,33955.49,169777.45,36,2026-11-16,40,Active
+PO-00385,2023-09-17,ServiceNow,Software License,Consumer Products,ServiceNow Software License,133,42157.26,5606915.58,36,2026-09-01,71,Active
+PO-00386,2023-05-11,CrowdStrike,Security,Merchant Services,CrowdStrike Security,28,52596.60,1472704.80,24,2025-04-30,50,Retired
+PO-00387,2025-01-07,Salesforce,Software License,Core Payments,Salesforce Software License,255,114071.85,29088321.75,12,2026-01-02,39,Active
+PO-00388,2023-08-25,Juniper,Network Hardware,Core Payments,Juniper Network Hardware,10,82523.85,825238.50,12,2024-08-19,68,Retired
+PO-00389,2024-05-15,Microsoft,Software License,Core Payments,Microsoft Software License,440,215800.66,94952290.40,12,2025-05-10,46,Active
+PO-00390,2025-05-08,Cisco,Network Hardware,Corporate IT,Cisco Network Hardware,12,90176.57,1082118.84,12,2026-05-03,71,Pending Renewal
+PO-00391,2023-09-02,Azure,Cloud Services,Merchant Services,Azure Cloud Services,1,461513.41,461513.41,36,2026-08-17,64,Active
+PO-00392,2024-08-01,CrowdStrike,Security,Data Platform,CrowdStrike Security,5,158473.47,792367.35,24,2026-07-22,61,Active
+PO-00393,2026-02-28,Supermicro,Server Hardware,Core Payments,Supermicro Server Hardware,12,15424.83,185097.96,36,2029-02-12,66,Active
+PO-00394,2024-05-17,Datadog,Software License,Fraud & Risk,Datadog Software License,376,225160.60,84660385.60,12,2025-05-12,51,Active
+PO-00395,2023-01-20,Dell,Laptops,Fraud & Risk,Dell Laptops,287,2100.70,602900.90,36,2026-01-04,100,In Procurement
+PO-00396,2024-05-02,GCP,Cloud Services,Merchant Services,GCP Cloud Services,1,172103.55,172103.55,24,2026-04-22,68,Active
+PO-00397,2025-11-30,Juniper,Network Hardware,Core Payments,Juniper Network Hardware,1,110946.56,110946.56,36,2028-11-14,61,Retired
+PO-00398,2025-03-18,Dell,Server Hardware,Corporate IT,Dell Server Hardware,5,31576.98,157884.90,12,2026-03-13,47,Pending Renewal
+PO-00399,2024-04-29,Microsoft,Software License,Data Platform,Microsoft Software License,340,241072.46,81964636.40,24,2026-04-19,66,In Procurement
+PO-00400,2023-06-02,Apple,Laptops,Merchant Services,Apple Laptops,241,1907.09,459608.69,12,2024-05-27,87,Active
+PO-00401,2025-08-12,CrowdStrike,Security,Fraud & Risk,CrowdStrike Security,7,33765.62,236359.34,24,2027-08-02,45,In Procurement
+PO-00402,2023-09-03,Palo Alto,Network Hardware,Merchant Services,Palo Alto Network Hardware,8,35475.91,283807.28,12,2024-08-28,83,Active
+PO-00403,2024-03-16,Okta,Security,Consumer Products,Okta Security,45,110577.94,4976007.30,24,2026-03-06,88,Active
+PO-00404,2023-12-23,Dell,Laptops,Consumer Products,Dell Laptops,163,1876.43,305858.09,12,2024-12-17,95,Active
+PO-00405,2023-07-13,Zscaler,Security,Corporate IT,Zscaler Security,48,101271.16,4861015.68,24,2025-07-02,99,Active
+PO-00406,2025-03-31,Dell,Server Hardware,Fraud & Risk,Dell Server Hardware,5,15330.92,76654.60,36,2028-03-15,91,Retired
+PO-00407,2023-06-03,GCP,Cloud Services,Core Payments,GCP Cloud Services,1,734768.58,734768.58,12,2024-05-28,82,Retired
+PO-00408,2025-08-02,Lenovo,Laptops,Core Payments,Lenovo Laptops,179,1518.57,271824.03,12,2026-07-28,67,Active
+PO-00409,2025-02-22,Datadog,Software License,Consumer Products,Datadog Software License,203,124283.53,25229556.59,36,2028-02-07,49,Active
+PO-00410,2024-05-18,Pure Storage,Storage,Data Platform,Pure Storage Storage,2,23142.62,46285.24,60,2029-04-22,77,Active
+PO-00411,2024-07-26,HP,Laptops,Corporate IT,HP Laptops,255,1358.55,346430.25,36,2027-07-11,77,In Procurement
+PO-00412,2023-02-09,Oracle,Software License,Consumer Products,Oracle Software License,411,136142.34,55954501.74,24,2025-01-29,79,In Procurement
+PO-00413,2026-03-04,Azure,Cloud Services,Data Platform,Azure Cloud Services,1,281786.95,281786.95,36,2029-02-16,60,Active
+PO-00414,2024-07-29,Dell EMC,Storage,Fraud & Risk,Dell EMC Storage,1,225504.72,225504.72,12,2025-07-24,83,In Procurement
+PO-00415,2023-07-25,Apple,Laptops,Corporate IT,Apple Laptops,129,3732.35,481473.15,12,2024-07-19,58,In Procurement
+PO-00416,2025-03-06,CrowdStrike,Security,Fraud & Risk,CrowdStrike Security,37,153138.39,5666120.43,24,2027-02-24,53,In Procurement
+PO-00417,2025-01-04,Palo Alto,Security,Fraud & Risk,Palo Alto Security,16,108690.91,1739054.56,36,2027-12-20,100,Pending Renewal
+PO-00418,2025-10-05,Oracle,Software License,Corporate IT,Oracle Software License,486,47464.30,23067649.80,36,2028-09-19,74,Active
+PO-00419,2024-03-24,Palo Alto,Network Hardware,Core Payments,Palo Alto Network Hardware,2,11459.32,22918.64,12,2025-03-19,67,Pending Renewal
+PO-00420,2024-10-24,Arista,Network Hardware,Merchant Services,Arista Network Hardware,12,25407.89,304894.68,12,2025-10-19,67,Active
+PO-00421,2023-05-29,Arista,Network Hardware,Core Payments,Arista Network Hardware,9,103976.99,935792.91,36,2026-05-13,58,Pending Renewal
+PO-00422,2023-11-19,Lenovo,Server Hardware,Merchant Services,Lenovo Server Hardware,11,13048.71,143535.81,60,2028-10-23,36,Active
+PO-00423,2026-02-24,Zscaler,Security,Consumer Products,Zscaler Security,21,35485.47,745194.87,36,2029-02-08,91,Active
+PO-00424,2024-08-26,Arista,Network Hardware,Data Platform,Arista Network Hardware,5,89409.42,447047.10,12,2025-08-21,48,Active
+PO-00425,2026-03-08,AWS,Cloud Services,Consumer Products,AWS Cloud Services,1,682098.00,682098.00,12,2027-03-03,75,In Procurement
+PO-00426,2025-10-13,Oracle,Software License,Consumer Products,Oracle Software License,290,26475.50,7677895.00,12,2026-10-08,85,Active
+PO-00427,2023-12-10,AWS,Cloud Services,Fraud & Risk,AWS Cloud Services,1,786079.93,786079.93,36,2026-11-24,75,Retired
+PO-00428,2024-06-27,GCP,Cloud Services,Consumer Products,GCP Cloud Services,1,362837.65,362837.65,12,2025-06-22,61,Active
+PO-00429,2023-01-03,AWS,Cloud Services,Merchant Services,AWS Cloud Services,1,631745.80,631745.80,12,2023-12-29,41,Active
+PO-00430,2023-07-27,HP,Laptops,Data Platform,HP Laptops,189,2619.66,495115.74,36,2026-07-11,91,In Procurement
+PO-00431,2023-03-10,Palo Alto,Security,Fraud & Risk,Palo Alto Security,29,17899.14,519075.06,24,2025-02-27,84,Active
+PO-00432,2023-06-03,Lenovo,Server Hardware,Fraud & Risk,Lenovo Server Hardware,13,13953.47,181395.11,60,2028-05-07,70,Active
+PO-00433,2025-06-02,Dell EMC,Storage,Corporate IT,Dell EMC Storage,4,180558.59,722234.36,60,2030-05-07,91,Active
+PO-00434,2025-04-18,Dell,Server Hardware,Merchant Services,Dell Server Hardware,7,44052.74,308369.18,60,2030-03-23,100,Pending Renewal
+PO-00435,2024-09-01,GCP,Cloud Services,Corporate IT,GCP Cloud Services,1,531872.34,531872.34,12,2025-08-27,86,Pending Renewal
+PO-00436,2025-05-25,Zscaler,Security,Fraud & Risk,Zscaler Security,4,68145.06,272580.24,12,2026-05-20,80,Active
+PO-00437,2024-02-28,GCP,Cloud Services,Data Platform,GCP Cloud Services,1,86619.65,86619.65,12,2025-02-22,28,Active
+PO-00438,2024-06-26,CrowdStrike,Security,Merchant Services,CrowdStrike Security,26,87415.28,2272797.28,12,2025-06-21,21,Retired
+PO-00439,2025-01-26,Datadog,Software License,Fraud & Risk,Datadog Software License,190,221430.43,42071781.70,12,2026-01-21,51,Active
+PO-00440,2023-07-18,NetApp,Storage,Merchant Services,NetApp Storage,5,29485.25,147426.25,12,2024-07-12,73,Retired
+PO-00441,2023-05-05,Dell EMC,Storage,Data Platform,Dell EMC Storage,5,68465.50,342327.50,36,2026-04-19,77,Pending Renewal
+PO-00442,2023-06-11,Azure,Cloud Services,Corporate IT,Azure Cloud Services,1,386247.20,386247.20,24,2025-05-31,47,In Procurement
+PO-00443,2025-07-08,AWS,Cloud Services,Corporate IT,AWS Cloud Services,1,105022.68,105022.68,12,2026-07-03,80,Active
+PO-00444,2025-06-10,Cisco,Network Hardware,Data Platform,Cisco Network Hardware,2,118652.19,237304.38,12,2026-06-05,63,In Procurement
+PO-00445,2023-05-18,AWS,Cloud Services,Corporate IT,AWS Cloud Services,1,262602.10,262602.10,12,2024-05-12,51,Active
+PO-00446,2023-01-26,Okta,Security,Corporate IT,Okta Security,30,165503.33,4965099.90,36,2026-01-10,82,Pending Renewal
+PO-00447,2023-10-31,ServiceNow,Software License,Data Platform,ServiceNow Software License,58,103903.38,6026396.04,36,2026-10-15,36,Active
+PO-00448,2025-04-21,Dell,Server Hardware,Merchant Services,Dell Server Hardware,18,40565.02,730170.36,36,2028-04-05,48,Active
+PO-00449,2024-07-18,Azure,Cloud Services,Corporate IT,Azure Cloud Services,1,39597.88,39597.88,24,2026-07-08,86,Retired
+PO-00450,2023-04-11,Dell,Laptops,Data Platform,Dell Laptops,179,2995.34,536165.86,60,2028-03-15,91,Active
+PO-00451,2024-09-12,Pure Storage,Storage,Core Payments,Pure Storage Storage,3,207085.69,621257.07,36,2027-08-28,63,Retired
+PO-00452,2025-06-26,AWS,Cloud Services,Fraud & Risk,AWS Cloud Services,1,247379.55,247379.55,24,2027-06-16,93,Active
+PO-00453,2024-03-08,Azure,Cloud Services,Corporate IT,Azure Cloud Services,1,158469.20,158469.20,24,2026-02-26,65,In Procurement
+PO-00454,2025-11-03,NetApp,Storage,Corporate IT,NetApp Storage,2,30419.99,60839.98,36,2028-10-18,30,Active
+PO-00455,2024-02-16,CrowdStrike,Security,Fraud & Risk,CrowdStrike Security,13,158156.60,2056035.80,12,2025-02-10,68,Active
+PO-00456,2025-10-31,AWS,Cloud Services,Merchant Services,AWS Cloud Services,1,660569.97,660569.97,24,2027-10-21,92,Retired
+PO-00457,2025-07-02,Dell,Server Hardware,Fraud & Risk,Dell Server Hardware,12,26085.11,313021.32,12,2026-06-27,92,Pending Renewal
+PO-00458,2023-07-05,Pure Storage,Storage,Fraud & Risk,Pure Storage Storage,3,191005.87,573017.61,36,2026-06-19,61,Pending Renewal
+PO-00459,2024-02-28,Arista,Network Hardware,Fraud & Risk,Arista Network Hardware,11,30887.88,339766.68,36,2027-02-12,52,In Procurement
+PO-00460,2023-01-18,CrowdStrike,Security,Data Platform,CrowdStrike Security,9,118290.02,1064610.18,12,2024-01-13,46,Active
+PO-00461,2024-07-17,Splunk,Software License,Consumer Products,Splunk Software License,496,177487.37,88033735.52,24,2026-07-07,100,Pending Renewal
+PO-00462,2025-03-24,Apple,Laptops,Consumer Products,Apple Laptops,276,3343.21,922725.96,60,2030-02-26,41,Active
+PO-00463,2024-08-01,Lenovo,Server Hardware,Corporate IT,Lenovo Server Hardware,21,29969.58,629361.18,36,2027-07-17,57,Active
+PO-00464,2024-09-03,Dell EMC,Storage,Merchant Services,Dell EMC Storage,3,76369.52,229108.56,12,2025-08-29,44,Active
+PO-00465,2025-04-07,Oracle,Software License,Core Payments,Oracle Software License,413,214400.18,88547274.34,36,2028-03-22,62,Active
+PO-00466,2025-04-08,Azure,Cloud Services,Merchant Services,Azure Cloud Services,1,726460.13,726460.13,24,2027-03-29,78,Retired
+PO-00467,2025-12-30,HPE,Server Hardware,Merchant Services,HPE Server Hardware,24,34394.66,825471.84,60,2030-12-04,78,Retired
+PO-00468,2026-02-17,Dell EMC,Storage,Merchant Services,Dell EMC Storage,2,212550.09,425100.18,12,2027-02-12,21,Active
+PO-00469,2026-02-18,Supermicro,Server Hardware,Fraud & Risk,Supermicro Server Hardware,24,17570.12,421682.88,12,2027-02-13,100,Retired
+PO-00470,2024-09-20,HPE,Server Hardware,Merchant Services,HPE Server Hardware,8,35535.77,284286.16,36,2027-09-05,52,In Procurement
+PO-00471,2023-08-30,Pure Storage,Storage,Merchant Services,Pure Storage Storage,5,84102.01,420510.05,36,2026-08-14,97,Pending Renewal
+PO-00472,2023-09-03,Microsoft,Software License,Data Platform,Microsoft Software License,456,49038.68,22361638.08,36,2026-08-18,78,Active
+PO-00473,2023-11-05,Splunk,Software License,Data Platform,Splunk Software License,28,217776.86,6097752.08,12,2024-10-30,88,Pending Renewal
+PO-00474,2025-09-25,Lenovo,Laptops,Merchant Services,Lenovo Laptops,102,3225.25,328975.50,36,2028-09-09,67,Retired
+PO-00475,2024-07-14,Juniper,Network Hardware,Consumer Products,Juniper Network Hardware,1,5542.05,5542.05,12,2025-07-09,68,In Procurement
+PO-00476,2025-05-29,Palo Alto,Network Hardware,Core Payments,Palo Alto Network Hardware,3,75665.17,226995.51,36,2028-05-13,54,Active
+PO-00477,2025-02-03,HP,Laptops,Core Payments,HP Laptops,29,2587.83,75047.07,12,2026-01-29,96,Pending Renewal
+PO-00478,2024-05-24,Cisco,Network Hardware,Consumer Products,Cisco Network Hardware,1,77069.00,77069.00,12,2025-05-19,44,Retired
+PO-00479,2024-09-18,Pure Storage,Storage,Fraud & Risk,Pure Storage Storage,1,105134.36,105134.36,12,2025-09-13,74,Active
+PO-00480,2025-09-30,Apple,Laptops,Data Platform,Apple Laptops,78,2091.11,163106.58,36,2028-09-14,70,In Procurement
+PO-00481,2023-09-26,Arista,Network Hardware,Data Platform,Arista Network Hardware,1,31268.10,31268.10,12,2024-09-20,65,Active
+PO-00482,2025-02-07,Lenovo,Server Hardware,Consumer Products,Lenovo Server Hardware,21,37308.70,783482.70,60,2030-01-12,38,Active
+PO-00483,2023-02-10,CrowdStrike,Security,Corporate IT,CrowdStrike Security,4,120844.74,483378.96,12,2024-02-05,59,Active
+PO-00484,2023-01-20,Lenovo,Server Hardware,Data Platform,Lenovo Server Hardware,23,13665.70,314311.10,36,2026-01-04,46,Active
+PO-00485,2023-10-08,AWS,Cloud Services,Consumer Products,AWS Cloud Services,1,502010.24,502010.24,24,2025-09-27,73,Retired
+PO-00486,2025-10-16,Microsoft,Software License,Merchant Services,Microsoft Software License,59,196297.64,11581560.76,12,2026-10-11,58,Pending Renewal
+PO-00487,2025-04-19,Juniper,Network Hardware,Corporate IT,Juniper Network Hardware,4,46161.01,184644.04,36,2028-04-03,82,Active
+PO-00488,2023-07-02,Azure,Cloud Services,Merchant Services,Azure Cloud Services,1,12163.02,12163.02,12,2024-06-26,91,In Procurement
+PO-00489,2025-11-13,Salesforce,Software License,Data Platform,Salesforce Software License,77,237386.78,18278782.06,12,2026-11-08,66,Active
+PO-00490,2023-04-13,AWS,Cloud Services,Data Platform,AWS Cloud Services,1,218658.77,218658.77,12,2024-04-07,57,In Procurement
+PO-00491,2024-10-02,Cisco,Network Hardware,Merchant Services,Cisco Network Hardware,6,97183.55,583101.30,36,2027-09-17,67,In Procurement
+PO-00492,2024-11-04,Dell,Server Hardware,Fraud & Risk,Dell Server Hardware,22,31946.35,702819.70,36,2027-10-20,58,Active
+PO-00493,2024-12-02,Splunk,Software License,Consumer Products,Splunk Software License,48,93469.23,4486523.04,12,2025-11-27,84,Active
+PO-00494,2023-12-08,Pure Storage,Storage,Consumer Products,Pure Storage Storage,4,202976.29,811905.16,12,2024-12-02,82,Active
+PO-00495,2025-09-15,GCP,Cloud Services,Core Payments,GCP Cloud Services,1,91933.35,91933.35,36,2028-08-30,61,Active
+PO-00496,2023-09-25,Okta,Security,Corporate IT,Okta Security,2,155950.76,311901.52,24,2025-09-14,55,Active
+PO-00497,2024-10-05,Supermicro,Server Hardware,Data Platform,Supermicro Server Hardware,2,10343.43,20686.86,12,2025-09-30,58,In Procurement
+PO-00498,2024-11-23,GCP,Cloud Services,Consumer Products,GCP Cloud Services,1,782537.49,782537.49,36,2027-11-08,36,Pending Renewal
+PO-00499,2024-05-24,GCP,Cloud Services,Corporate IT,GCP Cloud Services,1,351949.85,351949.85,24,2026-05-14,49,Pending Renewal
+PO-00500,2025-11-01,CrowdStrike,Security,Core Payments,CrowdStrike Security,42,168515.00,7077630.00,24,2027-10-22,95,In Procurement
+PO-00501,2024-11-08,Lenovo,Laptops,Core Payments,Lenovo Laptops,261,2033.65,530782.65,36,2027-10-24,82,Retired
+PO-00502,2026-03-19,HP,Laptops,Fraud & Risk,HP Laptops,50,2393.65,119682.50,36,2029-03-03,72,Active
+PO-00503,2025-10-15,Zscaler,Security,Data Platform,Zscaler Security,21,25773.70,541247.70,36,2028-09-29,62,Active
+PO-00504,2024-09-15,Dell,Server Hardware,Core Payments,Dell Server Hardware,20,43637.34,872746.80,60,2029-08-20,59,Pending Renewal
+PO-00505,2024-04-01,Palo Alto,Network Hardware,Merchant Services,Palo Alto Network Hardware,6,99910.76,599464.56,36,2027-03-17,49,Pending Renewal
+PO-00506,2024-03-30,Apple,Laptops,Consumer Products,Apple Laptops,241,1496.46,360646.86,12,2025-03-25,100,Active
+PO-00507,2023-08-06,Dell EMC,Storage,Merchant Services,Dell EMC Storage,5,137666.50,688332.50,12,2024-07-31,88,In Procurement
+PO-00508,2024-02-06,GCP,Cloud Services,Consumer Products,GCP Cloud Services,1,94499.59,94499.59,12,2025-01-31,52,Active
+PO-00509,2024-01-26,Zscaler,Security,Fraud & Risk,Zscaler Security,30,149296.98,4478909.40,36,2027-01-10,48,Active
+PO-00510,2025-07-11,GCP,Cloud Services,Corporate IT,GCP Cloud Services,1,619994.69,619994.69,24,2027-07-01,99,Retired
+PO-00511,2025-12-22,ServiceNow,Software License,Fraud & Risk,ServiceNow Software License,494,124957.75,61729128.50,36,2028-12-06,100,In Procurement
+PO-00512,2023-12-29,Datadog,Software License,Corporate IT,Datadog Software License,400,230330.00,92132000.00,36,2026-12-13,83,Pending Renewal
+PO-00513,2024-10-21,Arista,Network Hardware,Core Payments,Arista Network Hardware,7,80615.01,564305.07,60,2029-09-25,84,Pending Renewal
+PO-00514,2024-08-25,AWS,Cloud Services,Merchant Services,AWS Cloud Services,1,771238.89,771238.89,24,2026-08-15,52,In Procurement
+PO-00515,2025-11-15,Arista,Network Hardware,Data Platform,Arista Network Hardware,10,85501.64,855016.40,36,2028-10-30,83,Active
+PO-00516,2024-08-18,GCP,Cloud Services,Corporate IT,GCP Cloud Services,1,168702.38,168702.38,36,2027-08-03,44,Active
+PO-00517,2024-10-22,AWS,Cloud Services,Consumer Products,AWS Cloud Services,1,408075.82,408075.82,36,2027-10-07,83,Active
+PO-00518,2025-12-29,ServiceNow,Software License,Consumer Products,ServiceNow Software License,364,104660.74,38096509.36,24,2027-12-19,81,In Procurement
+PO-00519,2023-10-25,Dell,Laptops,Corporate IT,Dell Laptops,64,1265.71,81005.44,12,2024-10-19,60,In Procurement
+PO-00520,2023-05-08,Palo Alto,Security,Merchant Services,Palo Alto Security,44,48848.18,2149319.92,36,2026-04-22,55,In Procurement
+PO-00521,2025-07-15,NetApp,Storage,Corporate IT,NetApp Storage,1,99290.37,99290.37,12,2026-07-10,43,Pending Renewal
+PO-00522,2024-05-01,Palo Alto,Security,Consumer Products,Palo Alto Security,42,103222.35,4335338.70,36,2027-04-16,45,In Procurement
+PO-00523,2025-02-20,Okta,Security,Consumer Products,Okta Security,43,13221.48,568523.64,24,2027-02-10,34,Retired
+PO-00524,2024-02-20,Dell EMC,Storage,Core Payments,Dell EMC Storage,1,189762.44,189762.44,60,2029-01-24,87,In Procurement
+PO-00525,2025-01-23,Zscaler,Security,Fraud & Risk,Zscaler Security,41,128310.09,5260713.69,36,2028-01-08,39,In Procurement
+PO-00526,2023-06-02,AWS,Cloud Services,Merchant Services,AWS Cloud Services,1,150166.46,150166.46,12,2024-05-27,59,Active
+PO-00527,2024-07-25,GCP,Cloud Services,Core Payments,GCP Cloud Services,1,42101.04,42101.04,36,2027-07-10,66,In Procurement
+PO-00528,2023-11-14,NetApp,Storage,Merchant Services,NetApp Storage,4,181776.98,727107.92,12,2024-11-08,80,Active
+PO-00529,2024-09-08,Dell EMC,Storage,Core Payments,Dell EMC Storage,5,213137.90,1065689.50,36,2027-08-24,74,Active
+PO-00530,2025-12-02,Okta,Security,Corporate IT,Okta Security,15,172472.85,2587092.75,12,2026-11-27,41,In Procurement
+PO-00531,2023-07-08,Oracle,Software License,Data Platform,Oracle Software License,279,134490.47,37522841.13,24,2025-06-27,70,Active
+PO-00532,2025-12-22,Pure Storage,Storage,Merchant Services,Pure Storage Storage,2,238322.44,476644.88,36,2028-12-06,82,Pending Renewal
+PO-00533,2024-05-07,CrowdStrike,Security,Core Payments,CrowdStrike Security,43,65551.28,2818705.04,36,2027-04-22,44,Active
+PO-00534,2026-01-11,Azure,Cloud Services,Data Platform,Azure Cloud Services,1,314841.99,314841.99,36,2028-12-26,47,Active
+PO-00535,2023-03-31,Lenovo,Server Hardware,Corporate IT,Lenovo Server Hardware,17,24485.61,416255.37,36,2026-03-15,79,Pending Renewal
+PO-00536,2023-01-16,Dell,Server Hardware,Fraud & Risk,Dell Server Hardware,25,27905.07,697626.75,60,2027-12-21,59,Active
+PO-00537,2024-02-26,Arista,Network Hardware,Consumer Products,Arista Network Hardware,7,101101.48,707710.36,60,2029-01-30,89,Retired
+PO-00538,2023-11-11,Zscaler,Security,Consumer Products,Zscaler Security,5,135705.89,678529.45,12,2024-11-05,28,Active
+PO-00539,2023-12-31,Azure,Cloud Services,Core Payments,Azure Cloud Services,1,67865.94,67865.94,24,2025-12-20,41,Active
+PO-00540,2025-06-05,Pure Storage,Storage,Data Platform,Pure Storage Storage,4,163101.06,652404.24,36,2028-05-20,57,Active
+PO-00541,2023-05-10,Dell,Laptops,Corporate IT,Dell Laptops,13,2867.70,37280.10,60,2028-04-13,38,Active
+PO-00542,2024-09-09,Dell EMC,Storage,Core Payments,Dell EMC Storage,3,199919.60,599758.80,60,2029-08-14,50,Active
+PO-00543,2023-03-05,Pure Storage,Storage,Data Platform,Pure Storage Storage,4,208198.76,832795.04,36,2026-02-17,76,Retired
+PO-00544,2025-02-03,Apple,Laptops,Consumer Products,Apple Laptops,83,1974.95,163920.85,12,2026-01-29,80,Pending Renewal
+PO-00545,2025-03-18,Palo Alto,Security,Core Payments,Palo Alto Security,3,5880.22,17640.66,36,2028-03-02,59,Active
+PO-00546,2025-11-15,GCP,Cloud Services,Consumer Products,GCP Cloud Services,1,177272.18,177272.18,12,2026-11-10,65,Active
+PO-00547,2024-01-07,Arista,Network Hardware,Corporate IT,Arista Network Hardware,5,27347.51,136737.55,60,2028-12-11,81,In Procurement
+PO-00548,2023-05-18,Zscaler,Security,Consumer Products,Zscaler Security,36,17800.30,640810.80,24,2025-05-07,27,Active
+PO-00549,2024-04-25,Palo Alto,Network Hardware,Merchant Services,Palo Alto Network Hardware,6,19744.74,118468.44,12,2025-04-20,66,Active
+PO-00550,2024-09-18,Pure Storage,Storage,Data Platform,Pure Storage Storage,3,159840.47,479521.41,60,2029-08-23,76,Pending Renewal
+PO-00551,2024-10-03,Juniper,Network Hardware,Merchant Services,Juniper Network Hardware,7,24393.54,170754.78,12,2025-09-28,75,Retired
+PO-00552,2024-11-10,Apple,Laptops,Merchant Services,Apple Laptops,78,2966.91,231418.98,36,2027-10-26,34,Active
+PO-00553,2023-12-26,Apple,Laptops,Merchant Services,Apple Laptops,259,2634.35,682296.65,60,2028-11-29,34,In Procurement
+PO-00554,2023-06-06,Palo Alto,Security,Corporate IT,Palo Alto Security,13,51066.06,663858.78,36,2026-05-21,41,Active
+PO-00555,2024-03-11,CrowdStrike,Security,Corporate IT,CrowdStrike Security,38,75898.53,2884144.14,12,2025-03-06,41,Pending Renewal
+PO-00556,2024-08-18,Lenovo,Laptops,Merchant Services,Lenovo Laptops,210,1780.60,373926.00,12,2025-08-13,59,Active
+PO-00557,2023-01-22,ServiceNow,Software License,Core Payments,ServiceNow Software License,204,91284.46,18622029.84,36,2026-01-06,71,Pending Renewal
+PO-00558,2024-01-02,AWS,Cloud Services,Corporate IT,AWS Cloud Services,1,362514.15,362514.15,36,2026-12-17,100,Pending Renewal
+PO-00559,2023-03-24,AWS,Cloud Services,Consumer Products,AWS Cloud Services,1,751948.45,751948.45,12,2024-03-18,69,Active
+PO-00560,2025-01-09,NetApp,Storage,Core Payments,NetApp Storage,2,136703.03,273406.06,36,2027-12-25,52,Active
+PO-00561,2025-12-03,Dell,Laptops,Core Payments,Dell Laptops,175,1468.39,256968.25,60,2030-11-07,88,Active
+PO-00562,2025-02-14,ServiceNow,Software License,Corporate IT,ServiceNow Software License,90,94476.56,8502890.40,24,2027-02-04,31,Pending Renewal
+PO-00563,2024-04-01,AWS,Cloud Services,Corporate IT,AWS Cloud Services,1,307299.74,307299.74,36,2027-03-17,34,Active
+PO-00564,2023-10-12,HP,Laptops,Corporate IT,HP Laptops,13,2504.78,32562.14,36,2026-09-26,90,Active
+PO-00565,2023-11-04,Cisco,Network Hardware,Corporate IT,Cisco Network Hardware,11,37293.09,410223.99,12,2024-10-29,84,In Procurement
+PO-00566,2025-09-13,HPE,Server Hardware,Data Platform,HPE Server Hardware,11,34649.46,381144.06,60,2030-08-18,92,Active
+PO-00567,2025-04-21,Lenovo,Laptops,Corporate IT,Lenovo Laptops,92,2882.87,265224.04,12,2026-04-16,68,Pending Renewal
+PO-00568,2026-03-18,Arista,Network Hardware,Consumer Products,Arista Network Hardware,9,9506.95,85562.55,12,2027-03-13,79,Active
+PO-00569,2026-02-28,Juniper,Network Hardware,Fraud & Risk,Juniper Network Hardware,9,115197.41,1036776.69,60,2031-02-02,100,Retired
+PO-00570,2025-08-23,Okta,Security,Core Payments,Okta Security,14,83610.59,1170548.26,24,2027-08-13,72,Active
+PO-00571,2024-01-08,Palo Alto,Network Hardware,Corporate IT,Palo Alto Network Hardware,3,96380.85,289142.55,60,2028-12-12,58,Retired
+PO-00572,2025-02-28,Azure,Cloud Services,Data Platform,Azure Cloud Services,1,191552.89,191552.89,12,2026-02-23,53,Active
+PO-00573,2023-11-03,HPE,Server Hardware,Corporate IT,HPE Server Hardware,17,33321.61,566467.37,60,2028-10-07,88,Pending Renewal
+PO-00574,2023-07-10,Microsoft,Software License,Corporate IT,Microsoft Software License,258,188219.60,48560656.80,24,2025-06-29,82,Retired
+PO-00575,2025-05-11,Cisco,Network Hardware,Consumer Products,Cisco Network Hardware,11,54622.13,600843.43,36,2028-04-25,92,Active
+PO-00576,2026-03-25,Palo Alto,Network Hardware,Data Platform,Palo Alto Network Hardware,6,72740.53,436443.18,12,2027-03-20,43,Active
+PO-00577,2023-06-21,Juniper,Network Hardware,Data Platform,Juniper Network Hardware,4,109659.82,438639.28,36,2026-06-05,45,Pending Renewal
+PO-00578,2025-02-07,GCP,Cloud Services,Core Payments,GCP Cloud Services,1,420611.86,420611.86,36,2028-01-23,52,Active
+PO-00579,2025-05-22,Azure,Cloud Services,Data Platform,Azure Cloud Services,1,94200.74,94200.74,36,2028-05-06,53,Pending Renewal
+PO-00580,2025-03-24,Apple,Laptops,Corporate IT,Apple Laptops,151,3778.68,570580.68,12,2026-03-19,59,Active
+PO-00581,2026-02-10,ServiceNow,Software License,Data Platform,ServiceNow Software License,92,92868.14,8543868.88,24,2028-01-31,67,Active
+PO-00582,2023-09-01,Zscaler,Security,Consumer Products,Zscaler Security,9,154624.81,1391623.29,36,2026-08-16,86,Active
+PO-00583,2024-11-24,Lenovo,Laptops,Core Payments,Lenovo Laptops,119,2521.69,300081.11,60,2029-10-29,42,Active
+PO-00584,2023-10-25,Palo Alto,Network Hardware,Consumer Products,Palo Alto Network Hardware,1,97502.48,97502.48,36,2026-10-09,46,Pending Renewal
+PO-00585,2023-06-13,Dell,Laptops,Core Payments,Dell Laptops,144,1776.60,255830.40,60,2028-05-17,89,Active
+PO-00586,2023-04-28,Salesforce,Software License,Corporate IT,Salesforce Software License,147,178045.66,26172712.02,12,2024-04-22,73,Retired
+PO-00587,2025-11-27,HP,Laptops,Core Payments,HP Laptops,113,3411.48,385497.24,36,2028-11-11,81,Pending Renewal
+PO-00588,2023-03-15,Salesforce,Software License,Fraud & Risk,Salesforce Software License,315,42785.98,13477583.70,24,2025-03-04,100,Active
+PO-00589,2025-03-29,AWS,Cloud Services,Fraud & Risk,AWS Cloud Services,1,797485.54,797485.54,24,2027-03-19,57,Active
+PO-00590,2023-07-04,Microsoft,Software License,Consumer Products,Microsoft Software License,361,17619.98,6360812.78,36,2026-06-18,48,Active
+PO-00591,2024-07-20,ServiceNow,Software License,Merchant Services,ServiceNow Software License,178,240840.27,42869568.06,12,2025-07-15,56,Active
+PO-00592,2023-08-07,Microsoft,Software License,Merchant Services,Microsoft Software License,90,102080.09,9187208.10,36,2026-07-22,59,Active
+PO-00593,2025-11-17,Splunk,Software License,Merchant Services,Splunk Software License,485,29693.74,14401463.90,24,2027-11-07,96,Pending Renewal
+PO-00594,2024-05-13,Dell EMC,Storage,Data Platform,Dell EMC Storage,4,147344.62,589378.48,36,2027-04-28,39,In Procurement
+PO-00595,2024-06-12,HP,Laptops,Corporate IT,HP Laptops,24,2453.12,58874.88,12,2025-06-07,39,Active
+PO-00596,2024-12-24,GCP,Cloud Services,Fraud & Risk,GCP Cloud Services,1,335816.52,335816.52,36,2027-12-09,94,Pending Renewal
+PO-00597,2024-12-01,Lenovo,Server Hardware,Fraud & Risk,Lenovo Server Hardware,10,11441.35,114413.50,12,2025-11-26,55,Active
+PO-00598,2024-01-25,NetApp,Storage,Corporate IT,NetApp Storage,3,57954.35,173863.05,36,2027-01-09,63,Retired
+PO-00599,2024-02-28,Arista,Network Hardware,Consumer Products,Arista Network Hardware,4,105365.39,421461.56,12,2025-02-22,72,Pending Renewal
+PO-00600,2025-10-05,NetApp,Storage,Core Payments,NetApp Storage,1,231244.21,231244.21,60,2030-09-09,83,Active
+PO-00601,2025-10-05,CrowdStrike,Security,Data Platform,CrowdStrike Security,24,113616.81,2726803.44,36,2028-09-19,85,In Procurement
+PO-00602,2023-09-20,Splunk,Software License,Data Platform,Splunk Software License,114,187667.26,21394067.64,12,2024-09-14,49,Pending Renewal
+PO-00603,2024-12-12,Zscaler,Security,Data Platform,Zscaler Security,35,10698.46,374446.10,24,2026-12-02,92,Active
+PO-00604,2024-03-07,Supermicro,Server Hardware,Merchant Services,Supermicro Server Hardware,23,8311.49,191164.27,36,2027-02-20,38,Pending Renewal
+PO-00605,2024-01-19,Lenovo,Server Hardware,Merchant Services,Lenovo Server Hardware,20,39888.15,797763.00,60,2028-12-23,66,Pending Renewal
+PO-00606,2025-05-08,Pure Storage,Storage,Fraud & Risk,Pure Storage Storage,4,114626.58,458506.32,60,2030-04-12,85,In Procurement
+PO-00607,2026-03-16,Pure Storage,Storage,Data Platform,Pure Storage Storage,3,120921.31,362763.93,12,2027-03-11,100,In Procurement
+PO-00608,2025-02-19,Lenovo,Server Hardware,Fraud & Risk,Lenovo Server Hardware,18,23992.09,431857.62,12,2026-02-14,63,Active
+PO-00609,2025-10-20,Palo Alto,Security,Data Platform,Palo Alto Security,1,35906.27,35906.27,12,2026-10-15,100,Pending Renewal
+PO-00610,2024-05-28,Salesforce,Software License,Merchant Services,Salesforce Software License,403,121911.74,49130431.22,36,2027-05-13,66,In Procurement
+PO-00611,2023-05-03,Microsoft,Software License,Data Platform,Microsoft Software License,51,172790.52,8812316.52,12,2024-04-27,77,Retired
+PO-00612,2025-01-07,Supermicro,Server Hardware,Consumer Products,Supermicro Server Hardware,11,17611.46,193726.06,60,2029-12-12,44,Pending Renewal
+PO-00613,2024-12-20,Okta,Security,Merchant Services,Okta Security,2,77058.16,154116.32,36,2027-12-05,82,Pending Renewal
+PO-00614,2024-08-05,GCP,Cloud Services,Corporate IT,GCP Cloud Services,1,783704.78,783704.78,24,2026-07-26,64,Active
+PO-00615,2025-02-19,GCP,Cloud Services,Data Platform,GCP Cloud Services,1,712809.63,712809.63,36,2028-02-04,60,Active
+PO-00616,2026-03-16,Palo Alto,Security,Consumer Products,Palo Alto Security,22,78817.89,1733993.58,24,2028-03-05,98,In Procurement
+PO-00617,2024-10-10,Dell,Server Hardware,Fraud & Risk,Dell Server Hardware,11,16444.06,180884.66,60,2029-09-14,63,Retired
+PO-00618,2025-12-02,Apple,Laptops,Data Platform,Apple Laptops,195,3144.53,613183.35,36,2028-11-16,84,Active
+PO-00619,2024-05-30,Arista,Network Hardware,Core Payments,Arista Network Hardware,3,88693.83,266081.49,60,2029-05-04,65,Active
+PO-00620,2025-08-27,Dell,Laptops,Core Payments,Dell Laptops,42,3635.66,152697.72,60,2030-08-01,59,Active
+PO-00621,2023-08-01,Supermicro,Server Hardware,Corporate IT,Supermicro Server Hardware,25,44852.51,1121312.75,36,2026-07-16,61,Active
+PO-00622,2023-09-16,NetApp,Storage,Fraud & Risk,NetApp Storage,3,119142.70,357428.10,12,2024-09-10,61,Pending Renewal
+PO-00623,2024-10-28,Palo Alto,Security,Core Payments,Palo Alto Security,3,121121.10,363363.30,24,2026-10-18,24,Active
+PO-00624,2026-01-09,Datadog,Software License,Fraud & Risk,Datadog Software License,497,237147.29,117862203.13,12,2027-01-04,77,Pending Renewal
+PO-00625,2026-03-01,Datadog,Software License,Consumer Products,Datadog Software License,384,159144.86,61111626.24,24,2028-02-19,36,Active
+PO-00626,2025-06-23,Pure Storage,Storage,Corporate IT,Pure Storage Storage,2,204106.33,408212.66,36,2028-06-07,63,Active
+PO-00627,2025-12-07,Apple,Laptops,Fraud & Risk,Apple Laptops,165,1227.45,202529.25,12,2026-12-02,54,Active
+PO-00628,2025-05-31,Azure,Cloud Services,Data Platform,Azure Cloud Services,1,17214.75,17214.75,24,2027-05-21,88,Pending Renewal
+PO-00629,2026-02-22,Cisco,Network Hardware,Corporate IT,Cisco Network Hardware,6,26685.66,160113.96,36,2029-02-06,57,Retired
+PO-00630,2025-05-14,Azure,Cloud Services,Data Platform,Azure Cloud Services,1,217754.42,217754.42,36,2028-04-28,76,Active
+PO-00631,2025-12-25,ServiceNow,Software License,Consumer Products,ServiceNow Software License,351,68330.35,23983952.85,24,2027-12-15,31,Active
+PO-00632,2025-07-16,Juniper,Network Hardware,Core Payments,Juniper Network Hardware,11,57364.45,631008.95,36,2028-06-30,90,Retired
+PO-00633,2023-04-12,Datadog,Software License,Fraud & Risk,Datadog Software License,165,5339.15,880959.75,36,2026-03-27,100,Active
+PO-00634,2024-04-21,NetApp,Storage,Consumer Products,NetApp Storage,4,185870.16,743480.64,12,2025-04-16,76,Active
+PO-00635,2025-10-17,Supermicro,Server Hardware,Fraud & Risk,Supermicro Server Hardware,11,23548.99,259038.89,36,2028-10-01,30,Active
+PO-00636,2023-05-27,HPE,Server Hardware,Core Payments,HPE Server Hardware,9,36699.16,330292.44,60,2028-04-30,76,Active
+PO-00637,2023-09-07,Arista,Network Hardware,Merchant Services,Arista Network Hardware,7,100248.99,701742.93,60,2028-08-11,68,Active
+PO-00638,2023-07-12,Cisco,Network Hardware,Fraud & Risk,Cisco Network Hardware,8,89562.12,716496.96,60,2028-06-15,100,Retired
+PO-00639,2024-10-23,Palo Alto,Network Hardware,Data Platform,Palo Alto Network Hardware,11,115539.60,1270935.60,12,2025-10-18,63,Pending Renewal
+PO-00640,2024-02-11,Microsoft,Software License,Merchant Services,Microsoft Software License,247,159810.74,39473252.78,24,2026-01-31,63,Active
+PO-00641,2024-10-26,Palo Alto,Security,Core Payments,Palo Alto Security,16,115759.07,1852145.12,12,2025-10-21,76,Active
+PO-00642,2025-08-31,Lenovo,Laptops,Core Payments,Lenovo Laptops,31,2710.80,84034.80,60,2030-08-05,83,Pending Renewal
+PO-00643,2023-07-07,Juniper,Network Hardware,Core Payments,Juniper Network Hardware,4,23135.32,92541.28,60,2028-06-10,30,In Procurement
+PO-00644,2026-01-03,AWS,Cloud Services,Core Payments,AWS Cloud Services,1,519214.17,519214.17,12,2026-12-29,33,Active
+PO-00645,2024-12-12,Lenovo,Laptops,Merchant Services,Lenovo Laptops,295,3250.26,958826.70,36,2027-11-27,67,Active
+PO-00646,2025-09-20,Dell EMC,Storage,Fraud & Risk,Dell EMC Storage,3,226185.82,678557.46,60,2030-08-25,63,Active
+PO-00647,2026-03-06,Splunk,Software License,Corporate IT,Splunk Software License,357,122777.95,43831728.15,12,2027-03-01,49,Active
+PO-00648,2023-11-14,Dell EMC,Storage,Corporate IT,Dell EMC Storage,2,31186.00,62372.00,36,2026-10-29,62,Active
+PO-00649,2025-11-02,Okta,Security,Corporate IT,Okta Security,24,84463.82,2027131.68,24,2027-10-23,63,Pending Renewal
+PO-00650,2023-05-10,Okta,Security,Corporate IT,Okta Security,16,61121.47,977943.52,36,2026-04-24,22,Pending Renewal
+PO-00651,2026-02-03,Zscaler,Security,Fraud & Risk,Zscaler Security,34,124564.23,4235183.82,12,2027-01-29,53,Retired
+PO-00652,2023-03-31,NetApp,Storage,Core Payments,NetApp Storage,5,169839.39,849196.95,12,2024-03-25,55,Active
+PO-00653,2023-07-22,CrowdStrike,Security,Fraud & Risk,CrowdStrike Security,7,89939.80,629578.60,12,2024-07-16,30,Retired
+PO-00654,2023-05-26,Apple,Laptops,Core Payments,Apple Laptops,197,1773.88,349454.36,12,2024-05-20,49,Active
+PO-00655,2023-05-05,Azure,Cloud Services,Core Payments,Azure Cloud Services,1,642805.76,642805.76,24,2025-04-24,19,Active
+PO-00656,2024-06-28,Okta,Security,Consumer Products,Okta Security,4,149137.52,596550.08,36,2027-06-13,49,Active
+PO-00657,2025-11-29,AWS,Cloud Services,Merchant Services,AWS Cloud Services,1,756236.75,756236.75,12,2026-11-24,80,Active
+PO-00658,2024-01-02,Arista,Network Hardware,Corporate IT,Arista Network Hardware,11,33607.75,369685.25,60,2028-12-06,77,Retired
+PO-00659,2026-03-26,Datadog,Software License,Consumer Products,Datadog Software License,55,191687.71,10542824.05,24,2028-03-15,52,Active
+PO-00660,2024-11-22,HPE,Server Hardware,Fraud & Risk,HPE Server Hardware,18,22857.62,411437.16,60,2029-10-27,37,Active
+PO-00661,2024-10-07,ServiceNow,Software License,Data Platform,ServiceNow Software License,478,88404.86,42257523.08,36,2027-09-22,87,Active
+PO-00662,2026-02-27,HP,Laptops,Consumer Products,HP Laptops,175,2781.87,486827.25,60,2031-02-01,66,Active
+PO-00663,2025-03-24,Apple,Laptops,Merchant Services,Apple Laptops,241,2363.50,569603.50,12,2026-03-19,58,Pending Renewal
+PO-00664,2024-03-30,HPE,Server Hardware,Merchant Services,HPE Server Hardware,1,19112.36,19112.36,12,2025-03-25,5,In Procurement
+PO-00665,2025-11-13,NetApp,Storage,Consumer Products,NetApp Storage,3,230991.34,692974.02,60,2030-10-18,42,Active
+PO-00666,2025-01-21,Supermicro,Server Hardware,Merchant Services,Supermicro Server Hardware,5,13121.10,65605.50,60,2029-12-26,55,Active
+PO-00667,2026-03-11,Juniper,Network Hardware,Merchant Services,Juniper Network Hardware,2,70606.02,141212.04,12,2027-03-06,64,In Procurement
+PO-00668,2024-09-07,Lenovo,Laptops,Data Platform,Lenovo Laptops,58,2747.60,159360.80,12,2025-09-02,32,Retired
+PO-00669,2024-11-15,Zscaler,Security,Core Payments,Zscaler Security,50,14786.47,739323.50,24,2026-11-05,85,In Procurement
+PO-00670,2023-01-24,HPE,Server Hardware,Consumer Products,HPE Server Hardware,21,39430.69,828044.49,60,2027-12-29,51,In Procurement
+PO-00671,2024-10-15,Azure,Cloud Services,Core Payments,Azure Cloud Services,1,424262.85,424262.85,36,2027-09-30,50,Retired
+PO-00672,2025-03-15,Arista,Network Hardware,Core Payments,Arista Network Hardware,11,89131.54,980446.94,36,2028-02-28,60,In Procurement
+PO-00673,2024-08-16,ServiceNow,Software License,Corporate IT,ServiceNow Software License,47,55910.36,2627786.92,24,2026-08-06,79,Active
+PO-00674,2023-06-24,Salesforce,Software License,Core Payments,Salesforce Software License,281,100098.23,28127602.63,24,2025-06-13,83,Pending Renewal
+PO-00675,2025-09-26,Lenovo,Laptops,Fraud & Risk,Lenovo Laptops,256,2654.17,679467.52,36,2028-09-10,59,Pending Renewal
+PO-00676,2025-05-30,GCP,Cloud Services,Fraud & Risk,GCP Cloud Services,1,66598.74,66598.74,24,2027-05-20,56,Retired
+PO-00677,2025-01-18,Microsoft,Software License,Core Payments,Microsoft Software License,344,103688.72,35668919.68,24,2027-01-08,75,Retired
+PO-00678,2025-06-24,Lenovo,Server Hardware,Fraud & Risk,Lenovo Server Hardware,12,30800.18,369602.16,60,2030-05-29,86,Active
+PO-00679,2023-11-16,Dell,Laptops,Fraud & Risk,Dell Laptops,112,2981.93,333976.16,60,2028-10-20,74,Active
+PO-00680,2023-08-16,Arista,Network Hardware,Merchant Services,Arista Network Hardware,1,44476.21,44476.21,36,2026-07-31,59,Active
+PO-00681,2024-03-09,Dell,Laptops,Merchant Services,Dell Laptops,117,3124.03,365511.51,12,2025-03-04,32,Pending Renewal
+PO-00682,2025-12-14,Lenovo,Laptops,Consumer Products,Lenovo Laptops,19,2179.18,41404.42,12,2026-12-09,57,Active
+PO-00683,2024-07-09,Cisco,Network Hardware,Merchant Services,Cisco Network Hardware,4,95756.68,383026.72,12,2025-07-04,16,Active
+PO-00684,2023-02-09,Apple,Laptops,Consumer Products,Apple Laptops,194,3447.13,668743.22,36,2026-01-24,79,In Procurement
+PO-00685,2023-07-23,Azure,Cloud Services,Fraud & Risk,Azure Cloud Services,1,411746.86,411746.86,24,2025-07-12,38,Active
+PO-00686,2023-02-14,Arista,Network Hardware,Corporate IT,Arista Network Hardware,8,69479.07,555832.56,12,2024-02-09,70,Active
+PO-00687,2023-11-18,Splunk,Software License,Merchant Services,Splunk Software License,251,98653.25,24761965.75,12,2024-11-12,56,Retired
+PO-00688,2024-06-11,NetApp,Storage,Corporate IT,NetApp Storage,3,205794.82,617384.46,36,2027-05-27,84,In Procurement
+PO-00689,2025-03-15,Lenovo,Server Hardware,Fraud & Risk,Lenovo Server Hardware,5,20646.09,103230.45,60,2030-02-17,91,Pending Renewal
+PO-00690,2026-03-19,GCP,Cloud Services,Consumer Products,GCP Cloud Services,1,339693.34,339693.34,12,2027-03-14,95,Active
+PO-00691,2024-02-28,Dell EMC,Storage,Merchant Services,Dell EMC Storage,4,142424.93,569699.72,60,2029-02-01,85,In Procurement
+PO-00692,2025-12-08,Arista,Network Hardware,Merchant Services,Arista Network Hardware,12,86090.68,1033088.16,12,2026-12-03,89,Active
+PO-00693,2024-10-12,Palo Alto,Security,Consumer Products,Palo Alto Security,37,165494.62,6123300.94,12,2025-10-07,17,Active
+PO-00694,2024-10-14,Juniper,Network Hardware,Fraud & Risk,Juniper Network Hardware,12,8390.58,100686.96,36,2027-09-29,49,Active
+PO-00695,2024-01-20,Pure Storage,Storage,Consumer Products,Pure Storage Storage,3,50709.91,152129.73,12,2025-01-14,71,Pending Renewal
+PO-00696,2024-04-20,Splunk,Software License,Corporate IT,Splunk Software License,291,153284.32,44605737.12,12,2025-04-15,71,Retired
+PO-00697,2023-10-02,Lenovo,Server Hardware,Core Payments,Lenovo Server Hardware,23,36853.57,847632.11,60,2028-09-05,82,Retired
+PO-00698,2023-12-02,NetApp,Storage,Data Platform,NetApp Storage,4,126354.03,505416.12,12,2024-11-26,47,Active
+PO-00699,2024-03-31,Supermicro,Server Hardware,Core Payments,Supermicro Server Hardware,9,43157.33,388415.97,60,2029-03-05,60,Active
+PO-00700,2024-10-27,HPE,Server Hardware,Data Platform,HPE Server Hardware,20,26127.89,522557.80,36,2027-10-12,54,Active
+PO-00701,2025-03-18,HP,Laptops,Core Payments,HP Laptops,204,3072.52,626794.08,60,2030-02-20,94,Pending Renewal
+PO-00702,2023-08-12,Salesforce,Software License,Consumer Products,Salesforce Software License,403,10108.74,4073822.22,24,2025-08-01,57,Active
+PO-00703,2023-03-22,CrowdStrike,Security,Fraud & Risk,CrowdStrike Security,34,99127.10,3370321.40,36,2026-03-06,39,Active
+PO-00704,2024-08-08,Juniper,Network Hardware,Data Platform,Juniper Network Hardware,7,106705.72,746940.04,36,2027-07-24,92,Active
+PO-00705,2023-10-19,Apple,Laptops,Corporate IT,Apple Laptops,37,2993.88,110773.56,36,2026-10-03,79,Retired
+PO-00706,2026-01-24,Microsoft,Software License,Fraud & Risk,Microsoft Software License,399,146569.21,58481114.79,12,2027-01-19,46,Active
+PO-00707,2024-02-18,Apple,Laptops,Data Platform,Apple Laptops,22,1665.08,36631.76,36,2027-02-02,84,Retired
+PO-00708,2025-07-09,AWS,Cloud Services,Consumer Products,AWS Cloud Services,1,82041.08,82041.08,36,2028-06-23,78,Active
+PO-00709,2023-11-24,Supermicro,Server Hardware,Consumer Products,Supermicro Server Hardware,17,30646.68,520993.56,36,2026-11-08,61,Active
+PO-00710,2023-10-24,Dell EMC,Storage,Consumer Products,Dell EMC Storage,2,53099.16,106198.32,12,2024-10-18,65,In Procurement
+PO-00711,2025-07-02,AWS,Cloud Services,Data Platform,AWS Cloud Services,1,254519.46,254519.46,24,2027-06-22,60,Active
+PO-00712,2025-10-16,Cisco,Network Hardware,Corporate IT,Cisco Network Hardware,5,6403.89,32019.45,36,2028-09-30,60,Pending Renewal
+PO-00713,2025-09-01,CrowdStrike,Security,Corporate IT,CrowdStrike Security,32,46628.71,1492118.72,24,2027-08-22,60,Pending Renewal
+PO-00714,2026-02-15,HPE,Server Hardware,Corporate IT,HPE Server Hardware,9,30931.34,278382.06,12,2027-02-10,72,Active
+PO-00715,2023-10-25,Arista,Network Hardware,Core Payments,Arista Network Hardware,11,45137.28,496510.08,12,2024-10-19,47,Active
+PO-00716,2024-01-01,NetApp,Storage,Core Payments,NetApp Storage,1,112984.88,112984.88,12,2024-12-26,31,Retired
+PO-00717,2026-02-25,Dell EMC,Storage,Consumer Products,Dell EMC Storage,5,149486.41,747432.05,12,2027-02-20,100,Active
+PO-00718,2025-02-15,Dell,Server Hardware,Merchant Services,Dell Server Hardware,11,21637.07,238007.77,12,2026-02-10,60,In Procurement
+PO-00719,2024-07-16,Dell,Laptops,Merchant Services,Dell Laptops,251,1549.82,389004.82,36,2027-07-01,41,Retired
+PO-00720,2025-12-19,Cisco,Network Hardware,Core Payments,Cisco Network Hardware,10,88918.78,889187.80,12,2026-12-14,63,Active
+PO-00721,2024-10-10,GCP,Cloud Services,Corporate IT,GCP Cloud Services,1,347372.35,347372.35,24,2026-09-30,5,Active
+PO-00722,2025-10-05,Palo Alto,Network Hardware,Corporate IT,Palo Alto Network Hardware,12,77663.62,931963.44,12,2026-09-30,56,Pending Renewal
+PO-00723,2025-08-10,Juniper,Network Hardware,Fraud & Risk,Juniper Network Hardware,1,18593.82,18593.82,60,2030-07-15,78,Active
+PO-00724,2026-02-21,Zscaler,Security,Data Platform,Zscaler Security,3,63413.64,190240.92,36,2029-02-05,33,Active
+PO-00725,2023-05-19,HPE,Server Hardware,Consumer Products,HPE Server Hardware,10,17413.45,174134.50,36,2026-05-03,59,In Procurement
+PO-00726,2026-03-11,Dell,Server Hardware,Consumer Products,Dell Server Hardware,11,20630.38,226934.18,60,2031-02-13,94,Active
+PO-00727,2025-09-08,Palo Alto,Security,Fraud & Risk,Palo Alto Security,22,150919.43,3320227.46,24,2027-08-29,77,Active
+PO-00728,2025-04-27,Palo Alto,Network Hardware,Corporate IT,Palo Alto Network Hardware,6,58184.06,349104.36,60,2030-04-01,37,Active
+PO-00729,2026-02-11,Okta,Security,Corporate IT,Okta Security,47,123684.58,5813175.26,36,2029-01-26,96,Active
+PO-00730,2023-03-05,Okta,Security,Core Payments,Okta Security,10,54080.51,540805.10,24,2025-02-22,71,Active
+PO-00731,2023-08-28,GCP,Cloud Services,Fraud & Risk,GCP Cloud Services,1,158029.34,158029.34,24,2025-08-17,62,Active
+PO-00732,2025-01-31,Pure Storage,Storage,Core Payments,Pure Storage Storage,4,221106.45,884425.80,36,2028-01-16,49,In Procurement
+PO-00733,2025-02-05,NetApp,Storage,Corporate IT,NetApp Storage,3,56128.00,168384.00,12,2026-01-31,76,Active
+PO-00734,2024-01-25,Microsoft,Software License,Data Platform,Microsoft Software License,464,125263.55,58122287.20,24,2026-01-14,20,Active
+PO-00735,2023-07-21,GCP,Cloud Services,Merchant Services,GCP Cloud Services,1,123203.09,123203.09,36,2026-07-05,62,Retired
+PO-00736,2023-08-26,Supermicro,Server Hardware,Data Platform,Supermicro Server Hardware,23,39997.98,919953.54,12,2024-08-20,57,Active
+PO-00737,2023-07-31,Dell,Server Hardware,Merchant Services,Dell Server Hardware,15,40899.88,613498.20,60,2028-07-04,71,Active
+PO-00738,2024-02-15,Splunk,Software License,Consumer Products,Splunk Software License,457,52856.50,24155420.50,12,2025-02-09,31,Active
+PO-00739,2024-07-12,Dell EMC,Storage,Merchant Services,Dell EMC Storage,4,172714.15,690856.60,12,2025-07-07,73,Pending Renewal
+PO-00740,2026-01-30,ServiceNow,Software License,Core Payments,ServiceNow Software License,106,135860.91,14401256.46,24,2028-01-20,77,Active
+PO-00741,2024-09-29,Juniper,Network Hardware,Corporate IT,Juniper Network Hardware,4,24696.62,98786.48,60,2029-09-03,89,Active
+PO-00742,2025-02-24,Cisco,Network Hardware,Data Platform,Cisco Network Hardware,11,10802.44,118826.84,12,2026-02-19,50,Active
+PO-00743,2024-10-01,HP,Laptops,Fraud & Risk,HP Laptops,238,2802.42,666975.96,36,2027-09-16,82,Retired
+PO-00744,2025-08-17,CrowdStrike,Security,Data Platform,CrowdStrike Security,37,28064.17,1038374.29,12,2026-08-12,36,Active
+PO-00745,2024-04-03,Dell EMC,Storage,Consumer Products,Dell EMC Storage,4,125578.28,502313.12,12,2025-03-29,87,Active
+PO-00746,2024-10-27,Lenovo,Laptops,Consumer Products,Lenovo Laptops,179,3250.82,581896.78,36,2027-10-12,44,Active
+PO-00747,2025-08-02,Dell,Server Hardware,Data Platform,Dell Server Hardware,4,21003.31,84013.24,12,2026-07-28,63,Pending Renewal
+PO-00748,2024-10-29,Cisco,Network Hardware,Data Platform,Cisco Network Hardware,12,96627.14,1159525.68,60,2029-10-03,87,Retired
+PO-00749,2025-04-26,Lenovo,Server Hardware,Corporate IT,Lenovo Server Hardware,15,22830.21,342453.15,12,2026-04-21,47,Pending Renewal
+PO-00750,2025-06-10,NetApp,Storage,Consumer Products,NetApp Storage,5,116319.90,581599.50,60,2030-05-15,48,In Procurement
+PO-00751,2023-06-09,Dell EMC,Storage,Consumer Products,Dell EMC Storage,2,55675.08,111350.16,60,2028-05-13,94,Active
+PO-00752,2025-06-30,Supermicro,Server Hardware,Merchant Services,Supermicro Server Hardware,18,11613.19,209037.42,12,2026-06-25,55,Active
+PO-00753,2025-02-15,Dell,Server Hardware,Consumer Products,Dell Server Hardware,20,36539.71,730794.20,36,2028-01-31,35,Active
+PO-00754,2023-10-28,Arista,Network Hardware,Corporate IT,Arista Network Hardware,11,98131.53,1079446.83,60,2028-10-01,69,Active
+PO-00755,2024-10-10,Apple,Laptops,Data Platform,Apple Laptops,238,1708.73,406677.74,36,2027-09-25,24,Active
+PO-00756,2025-11-11,Apple,Laptops,Core Payments,Apple Laptops,14,2789.88,39058.32,36,2028-10-26,47,In Procurement
+PO-00757,2023-04-19,Juniper,Network Hardware,Core Payments,Juniper Network Hardware,6,108623.70,651742.20,12,2024-04-13,56,Active
+PO-00758,2025-03-18,Lenovo,Server Hardware,Core Payments,Lenovo Server Hardware,8,23973.47,191787.76,60,2030-02-20,28,Active
+PO-00759,2024-03-08,Azure,Cloud Services,Data Platform,Azure Cloud Services,1,353800.14,353800.14,36,2027-02-21,73,Pending Renewal
+PO-00760,2023-09-15,Apple,Laptops,Data Platform,Apple Laptops,88,1950.02,171601.76,12,2024-09-09,78,Active
+PO-00761,2025-06-13,Dell,Server Hardware,Fraud & Risk,Dell Server Hardware,24,40740.88,977781.12,12,2026-06-08,95,Active
+PO-00762,2025-05-18,Zscaler,Security,Corporate IT,Zscaler Security,12,84519.01,1014228.12,36,2028-05-02,83,In Procurement
+PO-00763,2023-01-16,HP,Laptops,Merchant Services,HP Laptops,125,1683.06,210382.50,60,2027-12-21,32,Retired
+PO-00764,2025-01-21,Splunk,Software License,Data Platform,Splunk Software License,475,136768.48,64965028.00,12,2026-01-16,68,Active
+PO-00765,2025-09-13,Datadog,Software License,Consumer Products,Datadog Software License,189,28734.51,5430822.39,36,2028-08-28,99,Pending Renewal
+PO-00766,2023-07-01,Okta,Security,Data Platform,Okta Security,34,18691.06,635496.04,12,2024-06-25,85,Active
+PO-00767,2026-01-09,GCP,Cloud Services,Consumer Products,GCP Cloud Services,1,550418.48,550418.48,36,2028-12-24,65,Active
+PO-00768,2025-08-18,Microsoft,Software License,Data Platform,Microsoft Software License,233,128409.45,29919401.85,36,2028-08-02,74,Retired
+PO-00769,2023-03-14,Pure Storage,Storage,Merchant Services,Pure Storage Storage,3,82963.98,248891.94,60,2028-02-16,100,Retired
+PO-00770,2023-12-13,Okta,Security,Core Payments,Okta Security,41,87803.09,3599926.69,36,2026-11-27,50,Active
+PO-00771,2023-06-18,Azure,Cloud Services,Consumer Products,Azure Cloud Services,1,236584.37,236584.37,12,2024-06-12,25,Active
+PO-00772,2024-06-10,NetApp,Storage,Corporate IT,NetApp Storage,3,79676.02,239028.06,12,2025-06-05,66,Retired
+PO-00773,2025-07-03,HPE,Server Hardware,Corporate IT,HPE Server Hardware,24,13592.02,326208.48,36,2028-06-17,74,Retired
+PO-00774,2024-12-03,Palo Alto,Network Hardware,Fraud & Risk,Palo Alto Network Hardware,9,104131.66,937184.94,12,2025-11-28,51,Active
+PO-00775,2025-02-23,Oracle,Software License,Data Platform,Oracle Software License,386,248399.60,95882245.60,12,2026-02-18,49,Active
+PO-00776,2023-08-26,Juniper,Network Hardware,Core Payments,Juniper Network Hardware,11,35405.48,389460.28,12,2024-08-20,38,Active
+PO-00777,2025-12-26,HP,Laptops,Data Platform,HP Laptops,164,2438.29,399879.56,12,2026-12-21,42,Active
+PO-00778,2025-07-08,NetApp,Storage,Corporate IT,NetApp Storage,4,17787.81,71151.24,36,2028-06-22,91,Retired
+PO-00779,2025-12-24,Dell EMC,Storage,Consumer Products,Dell EMC Storage,1,37880.62,37880.62,60,2030-11-28,42,Pending Renewal
+PO-00780,2023-07-21,Azure,Cloud Services,Merchant Services,Azure Cloud Services,1,220999.37,220999.37,24,2025-07-10,100,Retired
+PO-00781,2024-05-10,Datadog,Software License,Data Platform,Datadog Software License,396,168985.13,66918111.48,36,2027-04-25,50,Pending Renewal
+PO-00782,2023-01-22,Dell EMC,Storage,Consumer Products,Dell EMC Storage,2,88618.41,177236.82,60,2027-12-27,34,Active
+PO-00783,2023-08-01,CrowdStrike,Security,Core Payments,CrowdStrike Security,27,22097.28,596626.56,36,2026-07-16,53,Active
+PO-00784,2023-04-27,NetApp,Storage,Core Payments,NetApp Storage,1,160558.35,160558.35,60,2028-03-31,73,Retired
+PO-00785,2023-09-03,Palo Alto,Security,Corporate IT,Palo Alto Security,41,26313.27,1078844.07,12,2024-08-28,75,Retired
+PO-00786,2024-08-26,Palo Alto,Security,Core Payments,Palo Alto Security,45,37246.02,1676070.90,24,2026-08-16,58,Retired
+PO-00787,2024-10-24,Supermicro,Server Hardware,Merchant Services,Supermicro Server Hardware,25,23798.39,594959.75,36,2027-10-09,72,In Procurement
+PO-00788,2024-06-12,Supermicro,Server Hardware,Data Platform,Supermicro Server Hardware,11,44850.47,493355.17,36,2027-05-28,75,Active
+PO-00789,2024-01-01,Dell,Laptops,Data Platform,Dell Laptops,112,2786.78,312119.36,60,2028-12-05,55,In Procurement
+PO-00790,2024-06-14,Lenovo,Laptops,Corporate IT,Lenovo Laptops,64,3572.78,228657.92,12,2025-06-09,68,Active
+PO-00791,2025-07-02,Dell,Server Hardware,Corporate IT,Dell Server Hardware,24,17272.06,414529.44,12,2026-06-27,77,Retired
+PO-00792,2024-11-06,Dell,Server Hardware,Consumer Products,Dell Server Hardware,13,17858.15,232155.95,36,2027-10-22,60,Pending Renewal
+PO-00793,2023-05-24,Supermicro,Server Hardware,Data Platform,Supermicro Server Hardware,14,22944.77,321226.78,60,2028-04-27,71,Retired
+PO-00794,2025-01-05,Zscaler,Security,Core Payments,Zscaler Security,37,98678.21,3651093.77,24,2026-12-26,89,Retired
+PO-00795,2024-11-27,Pure Storage,Storage,Core Payments,Pure Storage Storage,1,100858.51,100858.51,12,2025-11-22,88,Active
+PO-00796,2024-01-27,AWS,Cloud Services,Fraud & Risk,AWS Cloud Services,1,774335.24,774335.24,24,2026-01-16,36,Retired
+PO-00797,2025-06-15,Dell,Laptops,Consumer Products,Dell Laptops,193,2464.91,475727.63,60,2030-05-20,70,Active
+PO-00798,2026-01-12,GCP,Cloud Services,Fraud & Risk,GCP Cloud Services,1,317126.35,317126.35,36,2028-12-27,73,Active
+PO-00799,2024-11-22,HP,Laptops,Core Payments,HP Laptops,28,2082.14,58299.92,60,2029-10-27,78,In Procurement
+PO-00800,2026-01-03,GCP,Cloud Services,Corporate IT,GCP Cloud Services,1,752670.93,752670.93,12,2026-12-29,70,Retired
+PO-00801,2025-09-28,Oracle,Software License,Core Payments,Oracle Software License,19,183997.20,3495946.80,36,2028-09-12,100,Pending Renewal
+PO-00802,2023-12-19,HPE,Server Hardware,Consumer Products,HPE Server Hardware,21,12829.90,269427.90,60,2028-11-22,73,Active
+PO-00803,2023-05-11,NetApp,Storage,Data Platform,NetApp Storage,5,55112.01,275560.05,12,2024-05-05,90,Pending Renewal
+PO-00804,2025-04-03,Cisco,Network Hardware,Fraud & Risk,Cisco Network Hardware,7,43794.46,306561.22,36,2028-03-18,87,Active
+PO-00805,2024-03-12,GCP,Cloud Services,Corporate IT,GCP Cloud Services,1,264056.01,264056.01,12,2025-03-07,51,Active
+PO-00806,2026-02-07,NetApp,Storage,Data Platform,NetApp Storage,2,178629.51,357259.02,12,2027-02-02,57,Active
+PO-00807,2025-02-09,Cisco,Network Hardware,Fraud & Risk,Cisco Network Hardware,2,95971.01,191942.02,12,2026-02-04,93,Active
+PO-00808,2024-08-04,HPE,Server Hardware,Core Payments,HPE Server Hardware,23,32114.96,738644.08,36,2027-07-20,70,Retired
+PO-00809,2024-07-08,Zscaler,Security,Consumer Products,Zscaler Security,9,41078.04,369702.36,36,2027-06-23,52,Active
+PO-00810,2025-10-20,Salesforce,Software License,Core Payments,Salesforce Software License,306,45410.12,13895496.72,36,2028-10-04,72,Active
+PO-00811,2024-04-27,Azure,Cloud Services,Merchant Services,Azure Cloud Services,1,13610.33,13610.33,12,2025-04-22,88,Active
+PO-00812,2024-03-02,Splunk,Software License,Corporate IT,Splunk Software License,260,55209.40,14354444.00,24,2026-02-20,86,Active
+PO-00813,2025-08-29,Cisco,Network Hardware,Fraud & Risk,Cisco Network Hardware,11,102034.89,1122383.79,36,2028-08-13,82,Active
+PO-00814,2024-11-15,Lenovo,Server Hardware,Merchant Services,Lenovo Server Hardware,7,24082.85,168579.95,60,2029-10-20,97,In Procurement
+PO-00815,2026-01-05,Zscaler,Security,Core Payments,Zscaler Security,7,134572.95,942010.65,12,2026-12-31,70,Pending Renewal
+PO-00816,2024-10-29,Dell,Server Hardware,Fraud & Risk,Dell Server Hardware,24,24458.37,587000.88,36,2027-10-14,72,Active
+PO-00817,2024-10-29,GCP,Cloud Services,Merchant Services,GCP Cloud Services,1,625390.47,625390.47,12,2025-10-24,97,In Procurement
+PO-00818,2025-09-19,Palo Alto,Network Hardware,Fraud & Risk,Palo Alto Network Hardware,2,59163.88,118327.76,12,2026-09-14,88,Active
+PO-00819,2025-02-03,Arista,Network Hardware,Corporate IT,Arista Network Hardware,8,25476.99,203815.92,12,2026-01-29,54,Active
+PO-00820,2026-03-10,NetApp,Storage,Merchant Services,NetApp Storage,2,22542.23,45084.46,12,2027-03-05,71,Active
+PO-00821,2024-12-04,Cisco,Network Hardware,Data Platform,Cisco Network Hardware,8,53095.74,424765.92,12,2025-11-29,90,In Procurement
+PO-00822,2023-06-27,Palo Alto,Security,Corporate IT,Palo Alto Security,36,154625.70,5566525.20,24,2025-06-16,48,In Procurement
+PO-00823,2025-08-05,Datadog,Software License,Fraud & Risk,Datadog Software License,303,118635.50,35946556.50,24,2027-07-26,91,In Procurement
+PO-00824,2023-11-02,Arista,Network Hardware,Merchant Services,Arista Network Hardware,7,71638.71,501470.97,60,2028-10-06,70,Active
+PO-00825,2025-10-29,Dell,Laptops,Core Payments,Dell Laptops,250,3107.04,776760.00,12,2026-10-24,48,In Procurement
+PO-00826,2026-02-17,CrowdStrike,Security,Data Platform,CrowdStrike Security,32,47089.51,1506864.32,12,2027-02-12,77,Retired
+PO-00827,2024-05-04,Azure,Cloud Services,Fraud & Risk,Azure Cloud Services,1,293140.49,293140.49,36,2027-04-19,71,Retired
+PO-00828,2023-02-19,NetApp,Storage,Consumer Products,NetApp Storage,4,216611.70,866446.80,36,2026-02-03,67,Active
+PO-00829,2025-01-28,Palo Alto,Security,Consumer Products,Palo Alto Security,26,37365.50,971503.00,36,2028-01-13,37,In Procurement
+PO-00830,2024-08-30,AWS,Cloud Services,Data Platform,AWS Cloud Services,1,429427.06,429427.06,24,2026-08-20,74,In Procurement
+PO-00831,2024-02-29,Dell EMC,Storage,Corporate IT,Dell EMC Storage,5,150178.90,750894.50,60,2029-02-02,100,Retired
+PO-00832,2025-08-11,Lenovo,Server Hardware,Core Payments,Lenovo Server Hardware,4,22169.33,88677.32,60,2030-07-16,90,Active
+PO-00833,2026-02-22,Pure Storage,Storage,Fraud & Risk,Pure Storage Storage,5,180645.31,903226.55,60,2031-01-27,69,Active
+PO-00834,2024-03-05,Cisco,Network Hardware,Consumer Products,Cisco Network Hardware,8,89798.71,718389.68,60,2029-02-07,56,In Procurement
+PO-00835,2025-05-16,Juniper,Network Hardware,Merchant Services,Juniper Network Hardware,5,62910.09,314550.45,36,2028-04-30,88,Active
+PO-00836,2025-12-27,Dell,Laptops,Data Platform,Dell Laptops,282,2963.60,835735.20,36,2028-12-11,75,Active
+PO-00837,2023-05-15,Splunk,Software License,Consumer Products,Splunk Software License,485,173459.16,84127692.60,12,2024-05-09,86,Active
+PO-00838,2024-07-19,Lenovo,Laptops,Merchant Services,Lenovo Laptops,49,1484.35,72733.15,12,2025-07-14,52,Retired
+PO-00839,2023-02-16,Palo Alto,Network Hardware,Fraud & Risk,Palo Alto Network Hardware,4,64879.08,259516.32,36,2026-01-31,39,Active
+PO-00840,2023-02-13,Apple,Laptops,Data Platform,Apple Laptops,237,3118.04,738975.48,36,2026-01-28,84,Active
+PO-00841,2025-04-23,Dell,Server Hardware,Fraud & Risk,Dell Server Hardware,17,31852.87,541498.79,60,2030-03-28,50,Active
+PO-00842,2024-09-19,HP,Laptops,Data Platform,HP Laptops,165,2674.85,441350.25,12,2025-09-14,94,In Procurement
+PO-00843,2023-04-07,NetApp,Storage,Data Platform,NetApp Storage,3,243120.15,729360.45,12,2024-04-01,53,Active
+PO-00844,2023-12-26,Oracle,Software License,Consumer Products,Oracle Software License,275,71669.02,19708980.50,36,2026-12-10,87,Retired
+PO-00845,2024-10-10,AWS,Cloud Services,Fraud & Risk,AWS Cloud Services,1,102364.69,102364.69,36,2027-09-25,79,Active
+PO-00846,2023-10-30,Cisco,Network Hardware,Consumer Products,Cisco Network Hardware,6,117472.59,704835.54,36,2026-10-14,80,Active
+PO-00847,2023-02-21,Oracle,Software License,Corporate IT,Oracle Software License,155,30811.76,4775822.80,24,2025-02-10,100,Active
+PO-00848,2024-11-09,NetApp,Storage,Core Payments,NetApp Storage,5,244266.24,1221331.20,60,2029-10-14,52,Retired
+PO-00849,2026-03-03,Pure Storage,Storage,Merchant Services,Pure Storage Storage,5,171718.62,858593.10,60,2031-02-05,87,Retired
+PO-00850,2023-08-28,Supermicro,Server Hardware,Core Payments,Supermicro Server Hardware,5,33086.31,165431.55,36,2026-08-12,54,Active
+PO-00851,2023-04-23,Lenovo,Laptops,Data Platform,Lenovo Laptops,192,1440.45,276566.40,60,2028-03-27,49,Active
+PO-00852,2025-07-01,Okta,Security,Fraud & Risk,Okta Security,2,19628.17,39256.34,36,2028-06-15,45,Retired
+PO-00853,2025-11-13,Supermicro,Server Hardware,Fraud & Risk,Supermicro Server Hardware,16,19757.04,316112.64,12,2026-11-08,85,Active
+PO-00854,2024-08-05,Azure,Cloud Services,Merchant Services,Azure Cloud Services,1,304536.61,304536.61,24,2026-07-26,56,Active
+PO-00855,2025-06-28,Pure Storage,Storage,Corporate IT,Pure Storage Storage,1,65688.36,65688.36,60,2030-06-02,100,Active
+PO-00856,2023-06-26,Palo Alto,Network Hardware,Consumer Products,Palo Alto Network Hardware,7,21050.28,147351.96,12,2024-06-20,66,Active
+PO-00857,2025-02-08,Pure Storage,Storage,Corporate IT,Pure Storage Storage,3,30537.21,91611.63,12,2026-02-03,99,Active
+PO-00858,2023-10-08,Lenovo,Laptops,Corporate IT,Lenovo Laptops,246,3046.64,749473.44,12,2024-10-02,69,Active
+PO-00859,2024-09-10,Zscaler,Security,Merchant Services,Zscaler Security,36,90852.48,3270689.28,36,2027-08-26,58,Active
+PO-00860,2025-08-25,Cisco,Network Hardware,Core Payments,Cisco Network Hardware,3,35207.86,105623.58,12,2026-08-20,94,Retired
+PO-00861,2024-05-16,Azure,Cloud Services,Data Platform,Azure Cloud Services,1,398590.34,398590.34,12,2025-05-11,80,Active
+PO-00862,2025-06-12,Salesforce,Software License,Merchant Services,Salesforce Software License,298,120381.23,35873606.54,24,2027-06-02,80,Retired
+PO-00863,2026-03-24,Azure,Cloud Services,Consumer Products,Azure Cloud Services,1,304829.75,304829.75,12,2027-03-19,75,Active
+PO-00864,2023-12-01,Juniper,Network Hardware,Data Platform,Juniper Network Hardware,12,20582.20,246986.40,12,2024-11-25,57,Active
+PO-00865,2024-08-20,Pure Storage,Storage,Consumer Products,Pure Storage Storage,3,26448.00,79344.00,60,2029-07-25,62,Active
+PO-00866,2026-01-18,Palo Alto,Security,Core Payments,Palo Alto Security,39,136709.99,5331689.61,24,2028-01-08,61,In Procurement
+PO-00867,2025-01-12,Dell EMC,Storage,Merchant Services,Dell EMC Storage,3,176079.27,528237.81,12,2026-01-07,47,Active
+PO-00868,2025-09-20,HPE,Server Hardware,Corporate IT,HPE Server Hardware,10,21801.53,218015.30,36,2028-09-04,63,Active
+PO-00869,2024-01-21,Cisco,Network Hardware,Fraud & Risk,Cisco Network Hardware,3,62889.03,188667.09,60,2028-12-25,36,Pending Renewal
+PO-00870,2023-08-27,CrowdStrike,Security,Data Platform,CrowdStrike Security,30,165305.45,4959163.50,12,2024-08-21,40,Active
+PO-00871,2025-06-24,Apple,Laptops,Merchant Services,Apple Laptops,195,1561.44,304480.80,60,2030-05-29,10,Active
+PO-00872,2023-10-19,Azure,Cloud Services,Core Payments,Azure Cloud Services,1,185662.70,185662.70,36,2026-10-03,59,Active
+PO-00873,2025-05-20,NetApp,Storage,Fraud & Risk,NetApp Storage,2,245560.75,491121.50,60,2030-04-24,68,Active
+PO-00874,2023-03-09,Zscaler,Security,Data Platform,Zscaler Security,3,39361.42,118084.26,36,2026-02-21,57,Pending Renewal
+PO-00875,2023-03-30,Microsoft,Software License,Data Platform,Microsoft Software License,61,227178.06,13857861.66,12,2024-03-24,66,Active
+PO-00876,2024-02-14,CrowdStrike,Security,Corporate IT,CrowdStrike Security,14,107830.53,1509627.42,12,2025-02-08,70,Retired
+PO-00877,2024-07-22,NetApp,Storage,Core Payments,NetApp Storage,2,213777.46,427554.92,60,2029-06-26,60,Pending Renewal
+PO-00878,2026-03-30,Palo Alto,Security,Corporate IT,Palo Alto Security,37,16958.98,627482.26,12,2027-03-25,78,Pending Renewal
+PO-00879,2026-01-05,Arista,Network Hardware,Merchant Services,Arista Network Hardware,3,108690.93,326072.79,12,2026-12-31,77,Active
+PO-00880,2024-01-15,Salesforce,Software License,Data Platform,Salesforce Software License,188,174684.16,32840622.08,24,2026-01-04,66,Retired
+PO-00881,2025-11-19,HPE,Server Hardware,Merchant Services,HPE Server Hardware,13,23691.40,307988.20,12,2026-11-14,36,Active
+PO-00882,2025-01-09,Supermicro,Server Hardware,Core Payments,Supermicro Server Hardware,17,13028.76,221488.92,60,2029-12-14,88,Active
+PO-00883,2023-08-25,Salesforce,Software License,Core Payments,Salesforce Software License,43,82364.79,3541685.97,24,2025-08-14,61,Active
+PO-00884,2025-05-26,Azure,Cloud Services,Fraud & Risk,Azure Cloud Services,1,239565.57,239565.57,12,2026-05-21,97,In Procurement
+PO-00885,2025-10-03,Supermicro,Server Hardware,Consumer Products,Supermicro Server Hardware,12,14634.00,175608.00,60,2030-09-07,86,Retired
+PO-00886,2023-07-28,AWS,Cloud Services,Core Payments,AWS Cloud Services,1,321901.05,321901.05,36,2026-07-12,82,Pending Renewal
+PO-00887,2025-04-07,Juniper,Network Hardware,Fraud & Risk,Juniper Network Hardware,10,102063.39,1020633.90,12,2026-04-02,70,Active
+PO-00888,2025-03-30,Dell EMC,Storage,Corporate IT,Dell EMC Storage,5,79148.61,395743.05,36,2028-03-14,91,Active
+PO-00889,2023-10-29,GCP,Cloud Services,Data Platform,GCP Cloud Services,1,414017.47,414017.47,24,2025-10-18,81,Active
+PO-00890,2023-05-20,Arista,Network Hardware,Core Payments,Arista Network Hardware,2,89846.81,179693.62,36,2026-05-04,78,Retired
+PO-00891,2023-11-09,HPE,Server Hardware,Data Platform,HPE Server Hardware,20,33130.56,662611.20,36,2026-10-24,60,Active
+PO-00892,2025-10-16,GCP,Cloud Services,Data Platform,GCP Cloud Services,1,169526.09,169526.09,24,2027-10-06,61,Pending Renewal
+PO-00893,2023-03-06,Dell EMC,Storage,Merchant Services,Dell EMC Storage,5,143455.71,717278.55,36,2026-02-18,76,Active
+PO-00894,2023-12-29,Pure Storage,Storage,Data Platform,Pure Storage Storage,4,23455.56,93822.24,60,2028-12-02,60,Retired
+PO-00895,2023-10-03,Okta,Security,Consumer Products,Okta Security,11,91008.93,1001098.23,24,2025-09-22,62,Active
+PO-00896,2026-01-09,Salesforce,Software License,Data Platform,Salesforce Software License,338,138669.08,46870149.04,36,2028-12-24,43,Active
+PO-00897,2025-10-10,Lenovo,Laptops,Corporate IT,Lenovo Laptops,38,2217.60,84268.80,60,2030-09-14,97,Active
+PO-00898,2023-04-03,Okta,Security,Merchant Services,Okta Security,4,9925.72,39702.88,12,2024-03-28,62,In Procurement
+PO-00899,2024-11-29,Pure Storage,Storage,Consumer Products,Pure Storage Storage,5,21321.46,106607.30,36,2027-11-14,84,Active
+PO-00900,2024-10-01,Apple,Laptops,Core Payments,Apple Laptops,135,1843.80,248913.00,60,2029-09-05,79,Active
+PO-00901,2023-02-10,AWS,Cloud Services,Merchant Services,AWS Cloud Services,1,276699.46,276699.46,36,2026-01-25,56,In Procurement
+PO-00902,2023-02-15,HP,Laptops,Merchant Services,HP Laptops,20,3009.49,60189.80,36,2026-01-30,89,Active
+PO-00903,2025-09-27,Datadog,Software License,Merchant Services,Datadog Software License,294,24882.56,7315472.64,12,2026-09-22,62,Active
+PO-00904,2025-01-14,Salesforce,Software License,Merchant Services,Salesforce Software License,86,153899.55,13235361.30,24,2027-01-04,54,Active
+PO-00905,2023-04-08,Dell,Laptops,Corporate IT,Dell Laptops,119,1947.12,231707.28,36,2026-03-23,90,Active
+PO-00906,2023-07-14,Salesforce,Software License,Core Payments,Salesforce Software License,368,211124.63,77693863.84,36,2026-06-28,67,Pending Renewal
+PO-00907,2023-06-07,ServiceNow,Software License,Data Platform,ServiceNow Software License,219,52829.92,11569752.48,36,2026-05-22,79,Pending Renewal
+PO-00908,2025-11-21,Splunk,Software License,Fraud & Risk,Splunk Software License,213,100874.09,21486181.17,24,2027-11-11,44,Retired
+PO-00909,2024-01-18,Palo Alto,Security,Core Payments,Palo Alto Security,41,128083.04,5251404.64,36,2027-01-02,35,In Procurement
+PO-00910,2023-05-03,Azure,Cloud Services,Merchant Services,Azure Cloud Services,1,748362.39,748362.39,36,2026-04-17,68,Pending Renewal
+PO-00911,2024-09-06,Arista,Network Hardware,Fraud & Risk,Arista Network Hardware,12,83810.26,1005723.12,36,2027-08-22,31,Active
+PO-00912,2023-11-25,AWS,Cloud Services,Data Platform,AWS Cloud Services,1,660731.46,660731.46,24,2025-11-14,91,Retired
+PO-00913,2024-01-29,Oracle,Software License,Data Platform,Oracle Software License,123,28832.86,3546441.78,12,2025-01-23,69,Active
+PO-00914,2024-07-12,HP,Laptops,Data Platform,HP Laptops,28,1725.18,48305.04,12,2025-07-07,100,Active
+PO-00915,2023-03-28,Pure Storage,Storage,Consumer Products,Pure Storage Storage,5,56356.53,281782.65,60,2028-03-01,63,In Procurement
+PO-00916,2025-04-13,Lenovo,Server Hardware,Corporate IT,Lenovo Server Hardware,10,40085.36,400853.60,36,2028-03-28,68,Retired
+PO-00917,2026-03-15,AWS,Cloud Services,Data Platform,AWS Cloud Services,1,196472.51,196472.51,36,2029-02-27,56,Retired
+PO-00918,2023-09-08,Okta,Security,Data Platform,Okta Security,6,46663.45,279980.70,24,2025-08-28,67,Active
+PO-00919,2025-05-16,Zscaler,Security,Consumer Products,Zscaler Security,48,46289.16,2221879.68,12,2026-05-11,76,Pending Renewal
+PO-00920,2023-08-20,Dell EMC,Storage,Core Payments,Dell EMC Storage,4,140365.44,561461.76,36,2026-08-04,78,Pending Renewal
+PO-00921,2023-10-24,HP,Laptops,Consumer Products,HP Laptops,136,3704.62,503828.32,36,2026-10-08,47,Active
+PO-00922,2023-04-22,Dell,Server Hardware,Consumer Products,Dell Server Hardware,22,37560.83,826338.26,60,2028-03-26,71,In Procurement
+PO-00923,2025-01-13,AWS,Cloud Services,Merchant Services,AWS Cloud Services,1,254322.12,254322.12,36,2027-12-29,99,In Procurement
+PO-00924,2024-06-07,HP,Laptops,Core Payments,HP Laptops,211,3611.52,762030.72,36,2027-05-23,98,Active
+PO-00925,2023-11-25,Palo Alto,Security,Merchant Services,Palo Alto Security,14,155397.93,2175571.02,24,2025-11-14,37,In Procurement
+PO-00926,2025-10-03,Azure,Cloud Services,Core Payments,Azure Cloud Services,1,694491.22,694491.22,24,2027-09-23,34,Retired
+PO-00927,2023-07-25,Apple,Laptops,Consumer Products,Apple Laptops,226,3479.58,786385.08,12,2024-07-19,59,Active
+PO-00928,2024-01-12,Apple,Laptops,Data Platform,Apple Laptops,24,3181.14,76347.36,60,2028-12-16,43,Active
+PO-00929,2024-09-17,Palo Alto,Security,Core Payments,Palo Alto Security,26,40013.18,1040342.68,24,2026-09-07,58,Active
+PO-00930,2025-04-20,Salesforce,Software License,Consumer Products,Salesforce Software License,391,32958.19,12886652.29,24,2027-04-10,63,Active
+PO-00931,2024-11-01,Lenovo,Laptops,Merchant Services,Lenovo Laptops,98,2987.41,292766.18,36,2027-10-17,75,Active
+PO-00932,2023-02-17,HP,Laptops,Corporate IT,HP Laptops,124,1253.91,155484.84,60,2028-01-22,89,Retired
+PO-00933,2025-08-05,Salesforce,Software License,Fraud & Risk,Salesforce Software License,465,22699.65,10555337.25,12,2026-07-31,64,Active
+PO-00934,2025-01-23,HP,Laptops,Corporate IT,HP Laptops,143,1588.05,227091.15,12,2026-01-18,100,Pending Renewal
+PO-00935,2025-07-18,Dell,Server Hardware,Consumer Products,Dell Server Hardware,17,24100.87,409714.79,60,2030-06-22,52,Active
+PO-00936,2023-09-24,Juniper,Network Hardware,Merchant Services,Juniper Network Hardware,12,61829.34,741952.08,36,2026-09-08,68,In Procurement
+PO-00937,2025-05-06,Arista,Network Hardware,Merchant Services,Arista Network Hardware,12,82876.69,994520.28,12,2026-05-01,57,Active
+PO-00938,2025-07-27,Palo Alto,Network Hardware,Fraud & Risk,Palo Alto Network Hardware,6,72033.85,432203.10,12,2026-07-22,74,Active
+PO-00939,2025-02-24,Lenovo,Laptops,Merchant Services,Lenovo Laptops,213,2985.82,635979.66,60,2030-01-29,41,Active
+PO-00940,2025-08-22,Dell,Server Hardware,Core Payments,Dell Server Hardware,11,42449.39,466943.29,36,2028-08-06,81,Pending Renewal
+PO-00941,2025-10-30,GCP,Cloud Services,Consumer Products,GCP Cloud Services,1,14235.18,14235.18,36,2028-10-14,23,Retired
+PO-00942,2024-06-17,NetApp,Storage,Corporate IT,NetApp Storage,1,151414.42,151414.42,12,2025-06-12,100,Pending Renewal
+PO-00943,2025-12-22,Apple,Laptops,Data Platform,Apple Laptops,77,1433.08,110347.16,36,2028-12-06,74,Active
+PO-00944,2025-05-30,Palo Alto,Network Hardware,Merchant Services,Palo Alto Network Hardware,12,46468.10,557617.20,36,2028-05-14,76,Active
+PO-00945,2023-12-04,Splunk,Software License,Corporate IT,Splunk Software License,161,109225.95,17585377.95,24,2025-11-23,65,Active
+PO-00946,2024-01-22,Salesforce,Software License,Consumer Products,Salesforce Software License,409,110277.40,45103456.60,12,2025-01-16,42,Active
+PO-00947,2025-08-14,Arista,Network Hardware,Core Payments,Arista Network Hardware,8,34925.76,279406.08,36,2028-07-29,100,Active
+PO-00948,2025-07-26,Supermicro,Server Hardware,Merchant Services,Supermicro Server Hardware,23,28751.62,661287.26,36,2028-07-10,99,Active
+PO-00949,2024-08-04,Palo Alto,Security,Core Payments,Palo Alto Security,23,21376.13,491650.99,12,2025-07-30,86,In Procurement
+PO-00950,2023-01-09,Dell EMC,Storage,Consumer Products,Dell EMC Storage,5,64913.10,324565.50,60,2027-12-14,36,In Procurement
+PO-00951,2025-10-17,Oracle,Software License,Data Platform,Oracle Software License,472,19670.45,9284452.40,36,2028-10-01,84,Active
+PO-00952,2023-08-06,GCP,Cloud Services,Core Payments,GCP Cloud Services,1,305111.06,305111.06,24,2025-07-26,78,Active
+PO-00953,2025-07-18,Dell,Server Hardware,Data Platform,Dell Server Hardware,23,32402.95,745267.85,60,2030-06-22,96,Active
+PO-00954,2024-10-27,NetApp,Storage,Consumer Products,NetApp Storage,5,238460.55,1192302.75,60,2029-10-01,59,Retired
+PO-00955,2024-08-02,Palo Alto,Security,Fraud & Risk,Palo Alto Security,4,145272.64,581090.56,24,2026-07-23,78,Pending Renewal
+PO-00956,2024-05-06,Datadog,Software License,Core Payments,Datadog Software License,205,64163.39,13153494.95,24,2026-04-26,33,Pending Renewal
+PO-00957,2023-11-12,Arista,Network Hardware,Data Platform,Arista Network Hardware,7,37767.63,264373.41,12,2024-11-06,56,Retired
+PO-00958,2023-07-16,Okta,Security,Consumer Products,Okta Security,39,27975.17,1091031.63,24,2025-07-05,100,Pending Renewal
+PO-00959,2026-02-27,Palo Alto,Network Hardware,Data Platform,Palo Alto Network Hardware,7,59790.56,418533.92,60,2031-02-01,35,In Procurement
+PO-00960,2023-07-10,Dell EMC,Storage,Fraud & Risk,Dell EMC Storage,4,163211.27,652845.08,12,2024-07-04,85,Pending Renewal
+PO-00961,2023-11-14,Pure Storage,Storage,Consumer Products,Pure Storage Storage,2,167188.50,334377.00,36,2026-10-29,36,Active
+PO-00962,2025-09-05,Pure Storage,Storage,Data Platform,Pure Storage Storage,1,228193.81,228193.81,36,2028-08-20,62,Active
+PO-00963,2026-03-10,Juniper,Network Hardware,Fraud & Risk,Juniper Network Hardware,9,54189.16,487702.44,12,2027-03-05,21,Pending Renewal
+PO-00964,2026-03-10,Supermicro,Server Hardware,Data Platform,Supermicro Server Hardware,4,25192.29,100769.16,36,2029-02-22,52,Active
+PO-00965,2025-08-05,Dell EMC,Storage,Core Payments,Dell EMC Storage,5,18823.14,94115.70,12,2026-07-31,77,Active
+PO-00966,2025-07-20,Supermicro,Server Hardware,Consumer Products,Supermicro Server Hardware,10,19616.02,196160.20,60,2030-06-24,26,Active
+PO-00967,2024-01-19,Splunk,Software License,Merchant Services,Splunk Software License,495,229568.93,113636620.35,12,2025-01-13,82,Pending Renewal
+PO-00968,2023-01-12,Dell EMC,Storage,Core Payments,Dell EMC Storage,4,140578.36,562313.44,36,2025-12-27,100,Active
+PO-00969,2025-04-09,HPE,Server Hardware,Consumer Products,HPE Server Hardware,16,25026.03,400416.48,60,2030-03-14,97,Active
+PO-00970,2025-03-19,Dell EMC,Storage,Corporate IT,Dell EMC Storage,3,177305.64,531916.92,36,2028-03-03,61,Active
+PO-00971,2023-02-02,Arista,Network Hardware,Core Payments,Arista Network Hardware,4,17869.94,71479.76,60,2028-01-07,100,Active
+PO-00972,2026-01-08,Lenovo,Laptops,Consumer Products,Lenovo Laptops,133,2333.05,310295.65,12,2027-01-03,59,Active
+PO-00973,2023-08-27,Pure Storage,Storage,Fraud & Risk,Pure Storage Storage,4,114141.62,456566.48,12,2024-08-21,97,Active
+PO-00974,2024-02-17,HP,Laptops,Core Payments,HP Laptops,240,2721.59,653181.60,36,2027-02-01,47,Pending Renewal
+PO-00975,2025-06-03,Zscaler,Security,Core Payments,Zscaler Security,22,6378.00,140316.00,24,2027-05-24,88,Pending Renewal
+PO-00976,2025-09-22,GCP,Cloud Services,Merchant Services,GCP Cloud Services,1,395122.25,395122.25,36,2028-09-06,38,Pending Renewal
+PO-00977,2023-05-05,GCP,Cloud Services,Consumer Products,GCP Cloud Services,1,193205.57,193205.57,36,2026-04-19,96,Pending Renewal
+PO-00978,2023-08-28,Lenovo,Server Hardware,Consumer Products,Lenovo Server Hardware,14,40898.20,572574.80,36,2026-08-12,71,Pending Renewal
+PO-00979,2024-08-12,Azure,Cloud Services,Data Platform,Azure Cloud Services,1,26437.47,26437.47,36,2027-07-28,75,Active
+PO-00980,2025-08-17,Oracle,Software License,Corporate IT,Oracle Software License,466,171401.03,79872879.98,12,2026-08-12,86,Active
+PO-00981,2025-01-07,GCP,Cloud Services,Data Platform,GCP Cloud Services,1,668133.79,668133.79,24,2026-12-28,81,Pending Renewal
+PO-00982,2025-09-15,Juniper,Network Hardware,Consumer Products,Juniper Network Hardware,12,14912.07,178944.84,12,2026-09-10,27,Active
+PO-00983,2025-05-01,Arista,Network Hardware,Corporate IT,Arista Network Hardware,8,16603.93,132831.44,36,2028-04-15,63,Active
+PO-00984,2023-12-24,Lenovo,Server Hardware,Merchant Services,Lenovo Server Hardware,12,33046.33,396555.96,60,2028-11-27,82,Active
+PO-00985,2024-04-09,CrowdStrike,Security,Merchant Services,CrowdStrike Security,28,24944.63,698449.64,12,2025-04-04,44,Active
+PO-00986,2024-07-01,Okta,Security,Core Payments,Okta Security,50,158599.89,7929994.50,12,2025-06-26,58,In Procurement
+PO-00987,2025-06-15,GCP,Cloud Services,Corporate IT,GCP Cloud Services,1,568059.88,568059.88,24,2027-06-05,100,Active
+PO-00988,2023-12-09,CrowdStrike,Security,Corporate IT,CrowdStrike Security,3,93778.50,281335.50,36,2026-11-23,59,Active
+PO-00989,2025-06-23,Palo Alto,Security,Merchant Services,Palo Alto Security,11,132461.12,1457072.32,36,2028-06-07,23,Active
+PO-00990,2024-02-18,Azure,Cloud Services,Merchant Services,Azure Cloud Services,1,107156.94,107156.94,24,2026-02-07,68,Active
+PO-00991,2025-10-31,CrowdStrike,Security,Fraud & Risk,CrowdStrike Security,31,64731.01,2006661.31,12,2026-10-26,86,In Procurement
+PO-00992,2025-12-20,Apple,Laptops,Consumer Products,Apple Laptops,135,1594.19,215215.65,36,2028-12-04,78,In Procurement
+PO-00993,2025-07-28,Arista,Network Hardware,Data Platform,Arista Network Hardware,7,110572.31,774006.17,60,2030-07-02,73,Active
+PO-00994,2023-06-23,Lenovo,Laptops,Core Payments,Lenovo Laptops,274,3653.47,1001050.78,36,2026-06-07,47,Pending Renewal
+PO-00995,2023-03-17,Palo Alto,Security,Data Platform,Palo Alto Security,4,73821.60,295286.40,36,2026-03-01,79,Pending Renewal
+PO-00996,2026-02-07,Lenovo,Server Hardware,Data Platform,Lenovo Server Hardware,13,40773.97,530061.61,36,2029-01-22,62,Retired
+PO-00997,2025-12-16,Azure,Cloud Services,Merchant Services,Azure Cloud Services,1,663332.81,663332.81,36,2028-11-30,97,Active
+PO-00998,2025-04-08,AWS,Cloud Services,Corporate IT,AWS Cloud Services,1,561002.06,561002.06,12,2026-04-03,51,Active
+PO-00999,2023-09-16,Dell,Server Hardware,Corporate IT,Dell Server Hardware,11,22429.76,246727.36,60,2028-08-20,85,Active
+PO-01000,2023-11-24,ServiceNow,Software License,Merchant Services,ServiceNow Software License,267,85506.87,22830334.29,12,2024-11-18,67,Active

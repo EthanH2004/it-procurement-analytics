@@ -1,0 +1,338 @@
+{
+  "kpis": {
+    "po_count": 1000.0,
+    "total_spend": 4924009809.08,
+    "avg_po": 4924009.81,
+    "vendor_count": 25.0,
+    "bu_count": 6.0
+  },
+  "by_category": [
+    {
+      "category": "Software License",
+      "spend": 4371671927.99,
+      "pos": 139
+    },
+    {
+      "category": "Security",
+      "spend": 263514542.97,
+      "pos": 137
+    },
+    {
+      "category": "Storage",
+      "spend": 63137973.41,
+      "pos": 153
+    },
+    {
+      "category": "Cloud Services",
+      "spend": 60041992.49,
+      "pos": 152
+    },
+    {
+      "category": "Network Hardware",
+      "spend": 57920121.35,
+      "pos": 137
+    },
+    {
+      "category": "Server Hardware",
+      "spend": 54776066.93,
+      "pos": 141
+    },
+    {
+      "category": "Laptops",
+      "spend": 52947183.94,
+      "pos": 141
+    }
+  ],
+  "top_vendors": [
+    {
+      "vendor": "Datadog",
+      "spend": 861051304.04,
+      "pos": 24
+    },
+    {
+      "vendor": "Splunk",
+      "spend": 791644375.99,
+      "pos": 21
+    },
+    {
+      "vendor": "Salesforce",
+      "spend": 738756527.99,
+      "pos": 27
+    },
+    {
+      "vendor": "Microsoft",
+      "spend": 710796684.46,
+      "pos": 21
+    },
+    {
+      "vendor": "Oracle",
+      "spend": 677406199.16,
+      "pos": 22
+    },
+    {
+      "vendor": "ServiceNow",
+      "spend": 592016836.35,
+      "pos": 24
+    },
+    {
+      "vendor": "Palo Alto",
+      "spend": 80814692.82,
+      "pos": 70
+    },
+    {
+      "vendor": "CrowdStrike",
+      "spend": 78463911.76,
+      "pos": 34
+    },
+    {
+      "vendor": "Zscaler",
+      "spend": 62706405.05,
+      "pos": 36
+    },
+    {
+      "vendor": "Okta",
+      "spend": 53316144.51,
+      "pos": 29
+    }
+  ],
+  "by_business_unit": [
+    {
+      "business_unit": "Data Platform",
+      "spend": 912653760.22
+    },
+    {
+      "business_unit": "Corporate IT",
+      "spend": 890439123.1
+    },
+    {
+      "business_unit": "Fraud & Risk",
+      "spend": 843963426.68
+    },
+    {
+      "business_unit": "Consumer Products",
+      "spend": 827766498.58
+    },
+    {
+      "business_unit": "Merchant Services",
+      "spend": 742170479.89
+    },
+    {
+      "business_unit": "Core Payments",
+      "spend": 707016520.61
+    }
+  ],
+  "renewals_90d": {
+    "count": 45,
+    "total_value": 309766684.59,
+    "rows": [
+      {
+        "vendor": "Microsoft",
+        "category": "Software License",
+        "business_unit": "Fraud & Risk",
+        "total_spend_usd": 5362605.36,
+        "renewal_date": "2026-04-16 00:00:00"
+      },
+      {
+        "vendor": "Lenovo",
+        "category": "Laptops",
+        "business_unit": "Corporate IT",
+        "total_spend_usd": 265224.04,
+        "renewal_date": "2026-04-16 00:00:00"
+      },
+      {
+        "vendor": "Azure",
+        "category": "Cloud Services",
+        "business_unit": "Merchant Services",
+        "total_spend_usd": 748362.39,
+        "renewal_date": "2026-04-17 00:00:00"
+      },
+      {
+        "vendor": "Dell EMC",
+        "category": "Storage",
+        "business_unit": "Data Platform",
+        "total_spend_usd": 342327.5,
+        "renewal_date": "2026-04-19 00:00:00"
+      },
+      {
+        "vendor": "GCP",
+        "category": "Cloud Services",
+        "business_unit": "Consumer Products",
+        "total_spend_usd": 193205.57,
+        "renewal_date": "2026-04-19 00:00:00"
+      },
+      {
+        "vendor": "Dell EMC",
+        "category": "Storage",
+        "business_unit": "Data Platform",
+        "total_spend_usd": 252261.75,
+        "renewal_date": "2026-04-21 00:00:00"
+      },
+      {
+        "vendor": "Lenovo",
+        "category": "Server Hardware",
+        "business_unit": "Corporate IT",
+        "total_spend_usd": 342453.15,
+        "renewal_date": "2026-04-21 00:00:00"
+      },
+      {
+        "vendor": "GCP",
+        "category": "Cloud Services",
+        "business_unit": "Merchant Services",
+        "total_spend_usd": 172103.55,
+        "renewal_date": "2026-04-22 00:00:00"
+      },
+      {
+        "vendor": "Okta",
+        "category": "Security",
+        "business_unit": "Corporate IT",
+        "total_spend_usd": 977943.52,
+        "renewal_date": "2026-04-24 00:00:00"
+      },
+      {
+        "vendor": "HPE",
+        "category": "Server Hardware",
+        "business_unit": "Consumer Products",
+        "total_spend_usd": 384512.24,
+        "renewal_date": "2026-04-25 00:00:00"
+      }
+    ]
+  },
+  "underutilized": {
+    "count": 67,
+    "reclaimable_spend": 273714141.28,
+    "rows": [
+      {
+        "vendor": "Datadog",
+        "category": "Software License",
+        "business_unit": "Consumer Products",
+        "total_spend_usd": 61111626.24,
+        "utilization_pct": 36
+      },
+      {
+        "vendor": "Microsoft",
+        "category": "Software License",
+        "business_unit": "Data Platform",
+        "total_spend_usd": 58122287.2,
+        "utilization_pct": 20
+      },
+      {
+        "vendor": "Salesforce",
+        "category": "Software License",
+        "business_unit": "Core Payments",
+        "total_spend_usd": 29088321.75,
+        "utilization_pct": 39
+      },
+      {
+        "vendor": "Splunk",
+        "category": "Software License",
+        "business_unit": "Consumer Products",
+        "total_spend_usd": 24155420.5,
+        "utilization_pct": 31
+      },
+      {
+        "vendor": "Oracle",
+        "category": "Software License",
+        "business_unit": "Consumer Products",
+        "total_spend_usd": 24010618.85,
+        "utilization_pct": 33
+      },
+      {
+        "vendor": "ServiceNow",
+        "category": "Software License",
+        "business_unit": "Consumer Products",
+        "total_spend_usd": 23983952.85,
+        "utilization_pct": 31
+      },
+      {
+        "vendor": "Splunk",
+        "category": "Software License",
+        "business_unit": "Core Payments",
+        "total_spend_usd": 13159264.8,
+        "utilization_pct": 12
+      },
+      {
+        "vendor": "Palo Alto",
+        "category": "Security",
+        "business_unit": "Consumer Products",
+        "total_spend_usd": 6123300.94,
+        "utilization_pct": 17
+      },
+      {
+        "vendor": "ServiceNow",
+        "category": "Software License",
+        "business_unit": "Data Platform",
+        "total_spend_usd": 6026396.04,
+        "utilization_pct": 36
+      },
+      {
+        "vendor": "CrowdStrike",
+        "category": "Security",
+        "business_unit": "Fraud & Risk",
+        "total_spend_usd": 3370321.4,
+        "utilization_pct": 39
+      }
+    ]
+  },
+  "consolidation": [
+    {
+      "business_unit": "Data Platform",
+      "category": "Software License",
+      "vendors": 6,
+      "spend": 652831824.79
+    },
+    {
+      "business_unit": "Corporate IT",
+      "category": "Software License",
+      "vendors": 6,
+      "spend": 537947718.24
+    },
+    {
+      "business_unit": "Consumer Products",
+      "category": "Software License",
+      "vendors": 6,
+      "spend": 537900560.24
+    },
+    {
+      "business_unit": "Merchant Services",
+      "category": "Software License",
+      "vendors": 6,
+      "spend": 518731752.75
+    },
+    {
+      "business_unit": "Core Payments",
+      "category": "Software License",
+      "vendors": 6,
+      "spend": 514047651.87
+    },
+    {
+      "business_unit": "Fraud & Risk",
+      "category": "Software License",
+      "vendors": 4,
+      "spend": 472431503.61
+    },
+    {
+      "business_unit": "Corporate IT",
+      "category": "Security",
+      "vendors": 4,
+      "spend": 41809615.72
+    },
+    {
+      "business_unit": "Consumer Products",
+      "category": "Security",
+      "vendors": 4,
+      "spend": 31849582.34
+    },
+    {
+      "business_unit": "Data Platform",
+      "category": "Security",
+      "vendors": 4,
+      "spend": 20995364.68
+    },
+    {
+      "business_unit": "Merchant Services",
+      "category": "Security",
+      "vendors": 4,
+      "spend": 19577624.12
+    }
+  ]
+}

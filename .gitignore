@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.vercel/
+.env
+.env.local
+
+# Private interview prep — NEVER push this to the public repo
+INTERVIEW_PREP.md
